@@ -28,9 +28,10 @@ THIS IS THE BETA VERSION OF V4. IF YOU'RE READING THIS, INSTALL AT YOUR OWN RISK
 4. Decent Gaming PC. Make sure unmodded Starfield alone runs fine on your PC before attempting these mods. If you're lagging after installing these mods with a budget build, you can disable the HD Overhaul to alleviate it.
 5. Not a requirement but I highly recommend doing this on a fresh save for the most immersive and best experience. There will be some mods that won't work on an existing save but you can workaround it by looking at the FAQ.
 6. Windows 10/11 (Mod Organizer 2 Limitation)
+7. Atleast 50 GB of available space (200+ GB if planning on using HD Overhaul), preferably on an SSD
 
 ## **What is Wabbajack?**<br />
-Wabbajack is an automated modlist installer. It will replicate my modlist and all it's configurations to your computer with a portable version of Mod Organizer 2 on your PC. If you have premium on NexusMods, then this process is very easy and in just a few clicks, you can be downloading hundreds of mods at once. If you don't have Nexus Premium, it's going to have you click through each mod to download but it'll guide you exactly on which one to click but it'll still do all the load order/plugin configuration for you once you're finished. 
+Wabbajack is an automated modlist installer. It will replicate my modlist and all it's configurations with a portable version of Mod Organizer 2 on your PC. If you have premium on Nexus Mods, then this process is very easy and in just a few clicks, you can be downloading hundreds of mods at once. If you don't have premium, it's going to have you click through each mod to download but it'll guide you exactly on which one to click but it'll still do all the load order/plugin configuration for you once you're finished. 
 
 
 ## **IMPORTANT PRE-STEPS**   <br />
@@ -55,10 +56,40 @@ Please read each mod instruction carefully. They're manually installed in differ
 7. Starfield Performance Boost (All In One (For all)): [link](https://www.nexusmods.com/starfield/mods/290?tab=files) <br />
    Drag all the contents into steamapps\common\Starfield.
 
+## **Wabbajack Install**   <br />
+
+1. Download Star Wars Genesis Wabbajack Compiler fromn here
+3. Download and install the latest version of Wabbajack from here.
+4. Create a folder called Star Wars Genesis in the location where you want to install everything.
+5. When you open Wabbajack for the first time, click the gear icon (settings) on the top left and logon to Nexus Mods
+6. In the main menu, choose the "Install From Disk" option
+7. Set your target modlist to the Star Wars Genesis Wabbajack Compiler you downloaded earlier
+8. Set the "Modlist Installation Location" to the Star Wars Genesis folder you created earlier.
+
 ## **Mod Manager Modlist:** <br />
 **Note: All google drive links are still installed by Mod Organizer 2. Just drag the archive into the downloads section of MO2 and install as you normally would**<br />
 
+<br /># HUD<br />
+1. Download Star Wars Genesis - HUD Pack from here and replace the empty mod when installing.
 
+<br /># HD Overhaul (OPTIONAL)<br />
+[This](https://www.nexusmods.com/starfield/mods/5124?tab=files) amounts to 100+ GB of 2-4K textures and will lead to performance if you have an old PC. 
+1. Download and install all available parts and make sure you name them the correct part number when installing
+2. Download and install HD Overhaul Textures Patch
+3. Download and install Starfield HD Overhaul ESM
+
+<br /># Environmental Conversions<br />
+1. Download Star Wars Genesis - Misc Item Pack from here and replace the empty mod when installing.
+
+<br /># Outfits<br />
+1. Download Star Wars Genesis - Clothing Pack from here and replace the empty mod when installing.
+
+<br /># Armor<br />
+1. Download Star Wars Genesis - Armor Pack from here and replace the empty mod when installing.
+
+<br /># Sound<br />
+1. Download Star Wars Genesis - Ship Sound Pack from here and replace the empty mod when installing.
+1. Download Star Wars Genesis - Misc Sound Pack from here and replace the empty mod when installing.
 
 
 ## **IN-GAME SETUP**<br />
