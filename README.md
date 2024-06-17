@@ -69,25 +69,25 @@ Please read each mod instruction carefully. They're manually installed in differ
 ## **Mod Manager Modlist:** <br />
 **Note: All google drive links are still installed by Mod Organizer 2. Just drag the archive into the downloads section of MO2 and install as you normally would**<br />
 
-<br />#HUD<br />
+<br />**HUD**<br />
 1. Download Star Wars Genesis - HUD Pack from here and replace the empty mod when installing.
 
-<br />#HD Overhaul (OPTIONAL)<br />
+<br />**HD Overhaul (OPTIONAL)**<br />
 [This](https://www.nexusmods.com/starfield/mods/5124?tab=files) amounts to 100+ GB of 2-4K textures and will lead to performance if you have an old PC. 
 1. Download and install all available parts and make sure you name them the correct part number when installing
 2. Download and install HD Overhaul Textures Patch
 3. Download and install Starfield HD Overhaul ESM
 
-<br />#Environmental Conversions<br />
+<br />**Environmental Conversions**<br />
 1. Download Star Wars Genesis - Misc Item Pack from here and replace the empty mod when installing.
 
-<br />#Outfits<br />
+<br />**Outfits**<br />
 1. Download Star Wars Genesis - Clothing Pack from here and replace the empty mod when installing.
 
-<br />#Armor<br />
+<br />**Armor**<br />
 1. Download Star Wars Genesis - Armor Pack from here and replace the empty mod when installing.
 
-<br />#Sound<br />
+<br />**Sound**<br />
 1. Download Star Wars Genesis - Ship Sound Pack from here and replace the empty mod when installing.
 1. Download Star Wars Genesis - Misc Sound Pack from here and replace the empty mod when installing.
 
