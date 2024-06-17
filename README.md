@@ -73,7 +73,7 @@ Please read each mod instruction carefully. They're manually installed in differ
 1. Download Star Wars Genesis - HUD Pack from here and replace the empty mod when installing.
 
 <br />**HD Overhaul (OPTIONAL)**<br />
-[This](https://www.nexusmods.com/starfield/mods/5124?tab=files) amounts to 100+ GB of 2-4K textures and will lead to performance if you have an old PC. 
+[This](https://www.nexusmods.com/starfield/mods/5124?tab=files) amounts to 100+ GB of 2-4K textures and will lead to performance iossues if you have an old PC. 
 1. Download and install all available parts and make sure you name them the correct part number when installing
 2. Download and install HD Overhaul Textures Patch
 3. Download and install Starfield HD Overhaul ESM
