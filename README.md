@@ -39,21 +39,18 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 
 ## **Manually Installed Mods:**<br />
 Please read each mod instruction carefully. They're manually installed in different places. <br />
-1. Starfield Script Extender (V0.28) [link](https://www.nexusmods.com/starfield/mods/106?tab=files)  <br />
-   Drag the contents of sfse_0_2_7 into steamapps\common\Starfield <br />
+1. Starfield Script Extender (V0.29) [link](https://www.nexusmods.com/starfield/mods/106?tab=files)  <br />
+   Drag the contents of sfse_0_2_9 into steamapps\common\Starfield <br />
    Add SFSE to MO2 by following these instructions: [link](https://www.youtube.com/watch?v=OWVri7somCI&t=85s)
 2. Mandalorian Collection Mesh Texture Edits (v2): [link](https://www.nexusmods.com/starfield/mods/6043?tab=files)<br />
-   Drag the CONTENTS of "Main- Install First" into Documents\My Games\Starfield\ <br />
+   Drag the CONTENTS of "Main - Install First" into Documents\My Games\Starfield\ <br />
    DO NOT just drag the actual "Main - Install First" folder inside your Data folder. This is a common mistake.
 3. Starfield Hotkeys: [link](https://www.nexusmods.com/starfield/mods/1578?tab=files) <br />
    Put into steamapps\common\Starfield. Delete hotkeys.ini
 4. Boostpack to Jetpack (A TRUE Jetpack Experience): [link](https://www.nexusmods.com/starfield/mods/3800?tab=files)<br />
    I did the Forever Jetpack option but feel free to do any of the other ones. Run enable_hotkeys.cmd after
-5. Download [RealADS.txt](https://drive.google.com/file/d/10Wq8T3nIxf9d6FDPdR1_wgCLbpgrvEns/view?usp=drive_link) and put it into steamapps\common\Starfield
-6. Star Wars Mandalorian Title Screen Overhaul [link](https://drive.google.com/drive/folders/1xSbbV_F8L1KNOMc0d8S53sihKWz-2bt0?usp=sharing)  <br />
-   Install Part 2 Only by putting the Data folder into steamapps\common\Starfield <br />
-7. Starfield Performance Boost (All In One (For all)): [link](https://www.nexusmods.com/starfield/mods/290?tab=files) <br />
-   Drag all the contents into steamapps\common\Starfield.
+4. Download Star Wars Genesis - Root Folder Pack and drag all the contents that are INSIDE IT into steamapps\common\Starfield <br />
+   If you did this correctly, you should see a popup asking if you want to replace files. If you don't see this popup, then you did something wrong.
 
 ## **Wabbajack Install**   <br />
 
