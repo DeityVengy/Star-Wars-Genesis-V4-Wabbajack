@@ -31,7 +31,7 @@ THIS IS THE BETA VERSION OF V4. IF YOU'RE READING THIS, INSTALL AT YOUR OWN RISK
 7. Atleast 50 GB of available space (200+ GB if planning on using HD Overhaul), preferably on an SSD
 
 ## **What is Wabbajack?**<br />
-Wabbajack is an automated modlist installer. It will replicate my modlist and all it's configurations with a portable version of Mod Organizer 2 on your PC. If you have premium on Nexus Mods, then this process is very easy and in just a few clicks, you can be downloading hundreds of mods at once. If you don't have premium, it's going to have you click through each mod to download but it'll guide you exactly on which one to click but it'll still do all the load order/plugin configuration for you once you're finished. 
+Wabbajack is an automated modlist installer. It will replicate my modlist and all it's configurations with a portable version of Mod Organizer 2 on your PC. If you have premium on Nexus Mods, then this process is very easy and in just a few clicks, you can be downloading hundreds of mods at once. If you don't have premium, it's going to have you click through each mod to download but it'll guide you exactly on which one to click. After that, it'll still do all the load order/plugin configuration for you once you're finished. 
 
 
 ## **IMPORTANT PRE-STEPS**   <br />
