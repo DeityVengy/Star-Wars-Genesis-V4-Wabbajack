@@ -19,6 +19,7 @@ THIS IS THE BETA VERSION OF V4. IF YOU'RE READING THIS, INSTALL AT YOUR OWN RISK
 - Immersive Starting Experience<br />
 - 4k Textures<br />
 - Realistic Damage, Balancing, and Scaling<br />
+- Rebalanced Economy <br />
 - Alternate Start<br />
 
 ## **Requirements:**
