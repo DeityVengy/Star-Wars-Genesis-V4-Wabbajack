@@ -113,7 +113,7 @@ Please read each mod instruction carefully. They're manually installed in differ
 3. Why no lightsabers?<br />
    There are a few lightsaber and jedi/sith mods but it just doesn't really work or feel immersive, especially with this game's poor melee combat. I will add lightsabers when they are ready with proper animations, deflection, and dismemberment. To be fair, the odds of an average person in Star Wars encountering Jedi/Sith is pretty low anyway. Just make it part of your headcannon lol.
 4. Certain NPC's are missing their heads or aren't converted. How do I fix? <br />
-   This happens when you mod existing saves. There are 2 possible solutions. Open console, click them, and do resetinventory. If that doesn't work, try using "disable" on them closing the console for them to disappear, and then open console and type enable. Highly recommend saving your game before hand incase you mess something up.
+   This happens when you mod existing saves. There are 2 possible solutions. First, save your game. Then open the console, click them (make sure it says NPC), and do resetinventory. If that doesn't work, try using "disable" on them closing the console for them to disappear. Then open console and without clicking anything, do "enable". IF that still doesn't work, then please kindly report it as a bug in my [Discord](https://discord.gg/sqKTwGRwwY)
 5. What are Constellation.esm and OldMars.esm in your plugins tab? <br />
    These are pre-order bonuses/dlcs. You can safely ignore
 6. Why are some of the mods on Google Drive and not on Nexus Mods? <br />
