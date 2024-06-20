@@ -49,7 +49,7 @@ Please read each mod instruction carefully. They're manually installed in differ
    Put into steamapps\common\Starfield. Delete hotkeys.ini
 4. Boostpack to Jetpack (A TRUE Jetpack Experience): [link](https://www.nexusmods.com/starfield/mods/3800?tab=files)<br />
    I did the Forever Jetpack option but feel free to do any of the other ones. Run enable_hotkeys.cmd after
-4. Download Star Wars Genesis - Root Folder Pack and drag all the contents that are INSIDE IT into steamapps\common\Starfield <br />
+4. Download Star Wars Genesis - Root Folder Pack and drag all the contents into steamapps\common\Starfield <br />
    If you did this correctly, you should see a popup asking if you want to replace files. If you don't see this popup, then you did something wrong.
 
 ## **Wabbajack Install**   <br />
