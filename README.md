@@ -11,16 +11,15 @@ THIS IS THE BETA VERSION OF V4. IF YOU'RE READING THIS, INSTALL AT YOUR OWN RISK
 - Full Conversion of ALL Weapons<br />
 - Full Conversion of ALL Spacesuits<br />
 - Notable Locations, Planets, and Dialogue Rewritten<br />
-- Star Wars Aliens<br />
-- Star Wars Misc Items<br />
-- Star Wars Signs, Wallpapers, Logos, and other Textures<br />
+- Alien Races<br />
+- Converted Cities & Misc Items<br />
+- Aurebesh Wallpapers, Logos, and other Textures<br />
 - Third Person Combat Revamped<br />
 - Gameplay Enhancements and Bug Fixes<br />
-- Immersive Starting Experience<br />
+- Immersive Alternate Start Experience<br />
 - 4k Textures<br />
 - Realistic Damage, Balancing, and Scaling<br />
 - Rebalanced Economy <br />
-- Alternate Start<br />
 
 ## **Requirements:**
 1. Steam version of Starfield. Alot of these mods have posts about people having issues installing it on the GamePass and MS Store version and some of them straight up aren't compatible. You are completely on your own unfortunately if you choose to go through it knowing this
