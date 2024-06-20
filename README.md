@@ -93,11 +93,17 @@ Please read each mod instruction carefully. They're manually installed in differ
 
 
 ## **IN-GAME SETUP**<br />
+**LOADING AN EXISTING SAVE**
 1. If loading an existing save and a pop-up asking about load order appears, make sure you click CURRENT
-2. If loading an existing save, you're going to see a popup as soon as you load in about SKK Fast Start and a STOP CODE. Just close it and don't worry about it.
-3. If loading a new save, make you you save and restart the game as soon as you load in to fix the sound issue (and numerous other issue)
-4. Make sure your difficulty settings are all on normal.
-5. For every new jetpack you equip, you must press F1 to activate the jetpack mod. This will unequip your current jetpack so you will have to put the same jetpack on and then press F1 again
+2. If loading an existing save and a warning pops up saying x plugin is missing, do not search for it in the creations menu and continue loading without it. These are redundant plugins that have been integrated into Star Wars Genesis
+3. If loading an existing save, you're going to see a popup as soon as you load in about SKK Fast Start and a STOP CODE. Just close it and don't worry about it.
+   
+**STARTING A NEW SAVE**
+1. If loading a new save, make you you save and restart the game as soon as you load in to fix the sound issue (and numerous other issue)
+
+**ALL SAVES**
+1. Make sure your difficulty settings are all on normal.
+2. For every new jetpack you equip, you must press F1 to activate the jetpack mod. This will unequip your current jetpack so you will have to put the same jetpack on and then press F1 again
    
 ## **Common Problems and Questions**
 1. How do I get X Weapon/Armor?<br />
