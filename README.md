@@ -49,8 +49,7 @@ Please read each mod instruction carefully. They're manually installed in differ
    Put into steamapps\common\Starfield. Delete hotkeys.ini
 4. Boostpack to Jetpack (A TRUE Jetpack Experience): [link](https://www.nexusmods.com/starfield/mods/3800?tab=files)<br />
    I did the Forever Jetpack option but feel free to do any of the other ones. Run enable_hotkeys.cmd after
-5. Real ADS - Part 2 - Add Real Zoom: [link](https://www.nexusmods.com/starfield/mods/3939?tab=files)<br />
-   Open the RealADS_Sniper folder. Drag RealADS.txt into steamapps\common\Starfield
+5. Download [RealADS.txt](https://drive.google.com/file/d/10Wq8T3nIxf9d6FDPdR1_wgCLbpgrvEns/view?usp=drive_link) and put it into steamapps\common\Starfield
 6. Star Wars Mandalorian Title Screen Overhaul [link](https://drive.google.com/drive/folders/1xSbbV_F8L1KNOMc0d8S53sihKWz-2bt0?usp=sharing)  <br />
    Install Part 2 Only by putting the Data folder into steamapps\common\Starfield <br />
 7. Starfield Performance Boost (All In One (For all)): [link](https://www.nexusmods.com/starfield/mods/290?tab=files) <br />
@@ -59,14 +58,14 @@ Please read each mod instruction carefully. They're manually installed in differ
 ## **Wabbajack Install**   <br />
 
 1. Download Star Wars Genesis Wabbajack Compiler fromn here
-3. Download and install the latest version of Wabbajack from here.
-4. Create a folder called Star Wars Genesis in the location where you want to install everything.
-5. When you open Wabbajack for the first time, click the gear icon (settings) on the top left and logon to Nexus Mods
-6. In the main menu, choose the "Install From Disk" option
-7. Set your target modlist to the Star Wars Genesis Wabbajack Compiler you downloaded earlier
-8. Set the "Modlist Installation Location" to the Star Wars Genesis folder you created earlier.
+2. Download and install the latest version of Wabbajack from here.
+3. Create a folder called Star Wars Genesis in the location where you want to install everything.
+4. When you open Wabbajack for the first time, click the gear icon (settings) on the top left and logon to Nexus Mods
+5. In the main menu, choose the "Install From Disk" option
+6. Set your target modlist to the Star Wars Genesis Wabbajack Compiler you downloaded earlier
+7. Set the "Modlist Installation Location" to the Star Wars Genesis folder you created earlier.
 
-## **Mod Manager Modlist:** <br />
+## **Mod Manager Modlist** <br />
 **Note: All google drive links are still installed by Mod Organizer 2. Just drag the archive into the downloads section of MO2 and install as you normally would**<br />
 
 <br />**HUD**<br />
@@ -74,7 +73,7 @@ Please read each mod instruction carefully. They're manually installed in differ
 
 <br />**HD Overhaul (OPTIONAL)**<br />
 [This](https://www.nexusmods.com/starfield/mods/5124?tab=files) amounts to 100+ GB of 2-4K textures and will lead to performance iossues if you have a weak PC. 
-1. Download and install all available parts and make sure you name them the correct part number when installing
+1. Download and install all available parts and make sure you name them the correct part number when installing (Ex. Part 1, Part 2, etc)
 2. Download and install HD Overhaul Textures Patch
 3. Download and install Starfield HD Overhaul ESM
 
@@ -91,6 +90,10 @@ Please read each mod instruction carefully. They're manually installed in differ
 1. Download Star Wars Genesis - Ship Sound Pack from here and replace the empty mod when installing.
 1. Download Star Wars Genesis - Misc Sound Pack from here and replace the empty mod when installing.
 
+## **Plugin Load Order** <br />
+1. Download plugins.txt and put it into Star Wars Genesis\profiles\Star Wars Genesis Compiler
+2. In Mod Organizer 2, go to the plugins tab on the right and click this button![image](https://github.com/DeityVengy/Star-Wars-Genesis-V4-Wabbajack/assets/170469610/28a6f6fd-be15-4e60-bf82-5b356ab8ce4d)
+3. Choose the only option that comes up
 
 ## **IN-GAME SETUP**<br />
 **LOADING AN EXISTING SAVE**
