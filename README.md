@@ -26,7 +26,7 @@ THIS IS THE BETA VERSION OF V4. IF YOU'RE READING THIS, INSTALL AT YOUR OWN RISK
 2. Version 1.12.32 of Starfield. PLEASE TURN OFF AUTOMATIC UPDATES for your sake and don't ever update until a newer version of Star Wars Genesis releases. Bethesda is known for breaking mods in their updates and you may still have issues if you choose to downgrade.
 3. DOUBLE CHECK THAT YOU TURNED OFF AUTOMATIC UPDATES FOR STARFIELD
 4. Decent Gaming PC. Make sure unmodded Starfield alone runs fine on your PC before attempting these mods. If you're lagging after installing these mods with a budget build, you can disable the HD Overhaul to alleviate it.
-5. Not a requirement but I highly recommend doing this on a fresh save for the most immersive and best experience. There will be some mods that won't work on an existing save but you can workaround it by looking at the FAQ.
+5. Not a requirement but I highly recommend doing this on a fresh save for the most immersive and best experience. Common issues include existing NPC's keeping their existing armor/weapons, existing planets you've landed on not being revamped, and your health being the wrong value.
 6. Windows 10/11 (Mod Organizer 2 Limitation)
 7. Atleast 50 GB of available space (200+ GB if planning on using HD Overhaul), preferably on an SSD
 
