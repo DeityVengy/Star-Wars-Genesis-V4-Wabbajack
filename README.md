@@ -91,6 +91,7 @@ Please read each mod instruction carefully. They're manually installed in differ
 1. If a pop-up asking about load order appears, make sure you click CURRENT
 2. If a warning pops up saying x plugin is missing, do NOT search for it in the creations menu and CONTINUE loading without it. These are redundant plugins that have been integrated into Star Wars Genesis
 3. If you see a popup as soon as you load in about SKK Fast Start and a STOP CODE. Just close it and don't worry about it.
+4. Check how much HP your character has. If you're level 1, you should have 100 HP. If you're level 50, you should have around 150 hp, etc. If you're missing HP (for example someone went from v3 to v4 and only had 13 hp), then you must cheat your health back to normal with this command: player.modav health x
    
 **STARTING A NEW SAVE**
 1. Make you you save and restart the game as soon as you load in to fix the sound issue (and numerous other issue)
