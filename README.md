@@ -42,15 +42,9 @@ Please read each mod instruction carefully. They're manually installed in differ
 1. Starfield Script Extender (V0.29) [link](https://www.nexusmods.com/starfield/mods/106?tab=files)  <br />
    Drag the contents of sfse_0_2_9 into steamapps\common\Starfield <br />
    Add SFSE to MO2 by following these instructions: [link](https://www.youtube.com/watch?v=OWVri7somCI&t=85s)
-2. Mandalorian Collection Mesh Texture Edits (v2): [link](https://www.nexusmods.com/starfield/mods/6043?tab=files)<br />
-   Drag the CONTENTS of "Main - Install First" into Documents\My Games\Starfield\ <br />
-   DO NOT just drag the actual "Main - Install First" folder inside your Data folder. This is a common mistake.
-3. Starfield Hotkeys: [link](https://www.nexusmods.com/starfield/mods/1578?tab=files) <br />
-   Put into steamapps\common\Starfield. Delete hotkeys.ini
-4. Boostpack to Jetpack (A TRUE Jetpack Experience): [link](https://www.nexusmods.com/starfield/mods/3800?tab=files)<br />
-   I did the Forever Jetpack option but feel free to do any of the other ones. Run enable_hotkeys.cmd after
-4. Download Star Wars Genesis - Root Folder Pack and drag all the contents into steamapps\common\Starfield <br />
+2. Download Star Wars Genesis - Root Folder Pack and drag all the contents into steamapps\common\Starfield <br />
    If you did this correctly, you should see a popup asking if you want to replace files. If you don't see this popup, then you did something wrong.
+   **Run enable_hotkeys.cmd in that same directory**
 
 ## **Wabbajack Install**   <br />
 
