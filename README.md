@@ -48,9 +48,9 @@ Please read each mod instruction carefully. They're manually installed in differ
 
 ## **Wabbajack Install**   <br />
 
-1. Download Star Wars Genesis Wabbajack Compiler fromn here
-2. Download and install the latest version of Wabbajack from here.
-3. Create a folder called Star Wars Genesis in the location where you want to install everything.
+1. Download Star Wars Genesis Wabbajack Compiler from here
+2. Download and install the latest version of Wabbajack from here
+3. Create a folder called Star Wars Genesis in the location where you want to install everything (AWAY FROM WABBAJACK INSTALL LOCATION).
 4. When you open Wabbajack for the first time, click the gear icon (settings) on the top left and logon to Nexus Mods
 5. In the main menu, choose the "Install From Disk" option
 6. Set your target modlist to the Star Wars Genesis Wabbajack Compiler you downloaded earlier
