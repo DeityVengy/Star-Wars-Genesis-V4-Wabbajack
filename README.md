@@ -103,15 +103,18 @@ Please read each mod instruction carefully. They're manually installed in differ
 ## **Common Problems and Questions**
 1. How do I get X Weapon/Armor?<br />
    Every single thing in this modlist can be acquired ingame through natural progression. If you want to skip that, then download the Star Wars Genesis Encyclopedia in my Discord and find the base game equivalent of the Weapon/Armor you want. Google the ID of that item and spawn it in with console commands. I DO NOT SUPPORT ANYTHING IN THE WORKBENCHES. You are free to use stuff in the workbenches but they are not balanced around Star Wars Genesis and may even be buggy.
-2. The game is crashing on startup/isn't launching. <br />
+2. The game is too hard and I'm getting one shot by everything <br />
+   If you're finding the game too hard (especially in the beginning), you can increase your health by 50 or 100 with console commands to make it more doable. The command for that is **player.modav health 100**
+   If you're finding the game too easy after leveling up and getting proper armor/weapons, you can revert that change by running this command: **player.modav health -100 **
+4. The game is crashing on startup/isn't launching. <br />
    Delete starfield.exe in your steamapps folder and then verify your game files through Steam. You will have to reinstall Part 2 of the Title Screen Overhaul again (scroll up)
-3. Why no lightsabers?<br />
+5. Why no lightsabers?<br />
    There are a few lightsaber and jedi/sith mods but it just doesn't really work or feel immersive, especially with this game's poor melee combat. I will add lightsabers when they are ready with proper animations, deflection, and dismemberment. To be fair, the odds of an average person in Star Wars encountering Jedi/Sith is pretty low anyway. Just make it part of your headcannon lol.
-4. Certain NPC's are missing their heads or aren't converted. How do I fix? <br />
+6. Certain NPC's are missing their heads or aren't converted. How do I fix? <br />
    This happens when you mod existing saves. There are 2 possible solutions. First, save your game. Then open the console, click them (make sure it says NPC), and do resetinventory. If that doesn't work, try using "disable" on them closing the console for them to disappear. Then open console and without clicking anything, do "enable". IF that still doesn't work, then please kindly report it as a bug in my [Discord](https://discord.gg/sqKTwGRwwY)
-5. What are Constellation.esm and OldMars.esm in your plugins tab? <br />
+7. What are Constellation.esm and OldMars.esm in your plugins tab? <br />
    These are pre-order bonuses/dlcs. You can safely ignore
-6. Why are some of the mods on Google Drive and not on Nexus Mods? <br />
+8. Why are some of the mods on Google Drive and not on Nexus Mods? <br />
    Because Nexus Mods is unironically anti-mod. I need permission to modify and update people's files that have been inactive and abandoned for 6+ months. Their mod isn't working anymore. No one is downloading it anymore. No one can contact the original owner. But for some reason I'm not allowed to fix it. Also it's absolutely absurd that you can copyright mods that take like 2 minutes to make. It takes longer to upload and post that mod than actually making it. I'm specifically talking about mods that for example change a single value from like 5 to 10 or change the color of an existing ingame outfit from purple to brown. I don't care that you think you have ownership of the idea that you can modify something that already exists within the game lol. I also understandably can't upload any mods with Star Wars music due to copyright, but in reality it's not like Disney would actually care... just like they don't care about the dozen other mods that are still sitting on Nexus that do pretty much the same thing. Basically all it takes is 1 moderator having a bad day to search "Star Wars" and wipe the entire modding scene. So to be quite honest, I don't really care about any these rules and just want to make a proper Star Wars game/modlist. I allow all my mods be modified and re-uploaded freely. I allow this modlist to be re-uploaded and modified freely. I have multiple backups of all files in this modlist so that Star Wars Genesis is never held hostage by deleted mods. At the end of the day, I promise you that the majority of people don't care about stuff like this and just want to play a fun modlist. 
    
 _P.S. I try my best to get permission from people that actually created something though. I also don't mind buying the rights to modify or re-upload well made mods like I've done with Neocrusaders and Dark Troopers or straight up commissioning a mod myself like Yuuzhan Vong, etc._
