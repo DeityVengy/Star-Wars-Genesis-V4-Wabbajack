@@ -104,8 +104,8 @@ Please read each mod instruction carefully. They're manually installed in differ
 1. How do I get X Weapon/Armor?<br />
    Every single thing in this modlist can be acquired ingame through natural progression. If you want to skip that, then download the Star Wars Genesis Encyclopedia in my Discord and find the base game equivalent of the Weapon/Armor you want. Google the ID of that item and spawn it in with console commands. I DO NOT SUPPORT ANYTHING IN THE WORKBENCHES. You are free to use stuff in the workbenches but they are not balanced around Star Wars Genesis and may even be buggy.
 2. The game is too hard and I'm getting one shot by everything <br />
-   If you're finding the game too hard (especially in the beginning), you can increase your health by 50 or 100 with console commands to make it more doable. The command for that is **player.modav health 100**
-   If you're finding the game too easy after leveling up and getting proper armor/weapons, you can revert that change by running this command: **player.modav health -100 **
+   If you're finding the game too hard (especially in the beginning), you can increase your health by 50 or 100 with console commands to make it more doable. The command for that is **player.modav health 100**<br />
+   If you're finding the game too easy after leveling up and getting proper armor/weapons, you can revert that change by running this command: **player.modav health -100**
 4. The game is crashing on startup/isn't launching. <br />
    Delete starfield.exe in your steamapps folder and then verify your game files through Steam. You will have to reinstall Part 2 of the Title Screen Overhaul again (scroll up)
 5. Why no lightsabers?<br />
