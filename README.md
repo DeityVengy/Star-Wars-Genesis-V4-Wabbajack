@@ -42,7 +42,7 @@ Please read each mod instruction carefully. They're manually installed in differ
 1. Starfield Script Extender (V0.29) [link](https://www.nexusmods.com/starfield/mods/106?tab=files)  <br />
    Drag the contents of sfse_0_2_9 into steamapps\common\Starfield <br />
    Add SFSE to MO2 by following these instructions: [link](https://www.youtube.com/watch?v=OWVri7somCI&t=85s)
-2. Download Star Wars Genesis - Root Folder Pack and drag all the contents into steamapps\common\Starfield <br />
+2. Download Star Wars Genesis - Root Folder Pack from [here](https://drive.google.com/file/d/1j8doGqNVUmXwYbkEDGk4lPTxzOoYCHD-/view?usp=drive_link) and drag all the contents into steamapps\common\Starfield <br />
    If you did this correctly, you should see a popup asking if you want to replace files. If you don't see this popup, then you did something wrong.
    **Run enable_hotkeys.cmd in that same directory**
 
@@ -80,6 +80,7 @@ Please read each mod instruction carefully. They're manually installed in differ
 <br />**Sound**<br />
 1. Download Star Wars Genesis - Ship Sound Pack from here and replace the empty mod when installing.
 1. Download Star Wars Genesis - Misc Sound Pack from here and replace the empty mod when installing.
+1. Download Star Wars Music and Ambience Overhaul from [here](https://drive.google.com/file/d/1YlhFBB024oBvKIl1q7q6oYUZrnuCORoY/view?usp=drive_link) and **replace** the empty mod when installing.
 
 ## **Plugin Load Order** <br />
 1. Download plugins.txt and put it into Star Wars Genesis\profiles\Star Wars Genesis Compiler
