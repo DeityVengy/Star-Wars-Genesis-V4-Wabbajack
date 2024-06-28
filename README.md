@@ -59,33 +59,19 @@ Please read each mod instruction carefully. They're manually installed in differ
 ## **Mod Manager Modlist** <br />
 **Note: All google drive links are still installed by Mod Organizer 2. Just drag the archive into the downloads section of MO2 and install as you normally would**<br />
 
-<br />**HUD**<br />
-1. Download Star Wars Genesis - HUD Pack from here and replace the empty mod when installing.
-
 <br />**HD Overhaul (OPTIONAL)**<br />
 [This](https://www.nexusmods.com/starfield/mods/5124?tab=files) amounts to 100+ GB of 2-4K textures and will lead to performance iossues if you have a weak PC. 
 1. Download and install all available parts and make sure you name them the correct part number when installing (Ex. Part 1, Part 2, etc)
 2. Download and install HD Overhaul Textures Patch
 3. Download and install Starfield HD Overhaul ESM
 
-<br />**Environmental Conversions**<br />
-1. Download Star Wars Genesis - Misc Item Pack from here and replace the empty mod when installing.
-
-<br />**Outfits**<br />
-1. Download Star Wars Genesis - Clothing Pack from here and replace the empty mod when installing.
-
-<br />**Armor**<br />
-1. Download Star Wars Genesis - Armor Pack from here and replace the empty mod when installing.
-
-<br />**Sound**<br />
-1. Download Star Wars Genesis - Ship Sound Pack from here and replace the empty mod when installing.
-1. Download Star Wars Genesis - Misc Sound Pack from here and replace the empty mod when installing.
+<br />**Sound (IMPORTANT)**<br />
 1. Download Star Wars Music and Ambience Overhaul from [here](https://drive.google.com/file/d/1YlhFBB024oBvKIl1q7q6oYUZrnuCORoY/view?usp=drive_link) and **replace** the empty mod when installing.
 
 ## **Plugin Load Order** <br />
 1. Download plugins.txt and put it into Star Wars Genesis\profiles\Star Wars Genesis Compiler
 2. In Mod Organizer 2, go to the plugins tab on the right and click this button![image](https://github.com/DeityVengy/Star-Wars-Genesis-V4-Wabbajack/assets/170469610/28a6f6fd-be15-4e60-bf82-5b356ab8ce4d)
-3. Choose the only option that comes up
+3. Choose the top option that comes up
 
 ## **IN-GAME SETUP**<br />
 **LOADING AN EXISTING SAVE**
