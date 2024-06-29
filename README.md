@@ -86,7 +86,67 @@ Please read each mod instruction carefully. They're manually installed in differ
 **ALL SAVES**
 1. Make sure your difficulty settings are all on normal.
 2. For every new jetpack you equip, you must press F1 to activate the jetpack mod. This will unequip your current jetpack so you will have to equip the jetpack again and then press F1 again
-   
+
+## **Patch Notes**
+**V3 to V4 Patch Notes**
+------------------------------------------------------------------
+**General**
+- **Wabbajack support**
+- Updated StarfieldCustom.ini file with better textures/display config
+- KiLoader/Loose Root Data Implementation
+- Removed 4 redundant plugins and integrated them into Genesis<br />
+**Gameplay**
+- Better Weather System for ALL Planets
+- Removed loading screens between galaxy to galaxy travel and replaced it with Hyperspace VFX Transitions
+- Gravity Wave converted to proper Force Push
+- Star Wars Background and Traits
+- Terrifying Terrormorphs Revamp, converting them into Corrupted Rakghouls that inflict allies with Rakghoul plague, turning allies against you and making your character hear voices in their head. Variations include Dread Rakghouls, Phantom Rakghouls, Nightmare Rakghouls, and more.
+- Added rare absorbable Kyber Crystals near planet landing areas. Every 3 you absorb gives you 1 skill point
+- Added scattered Jedi/Sith Temple Ruins that reward you with unique force powers or status effects
+- The Empire and the Rebels are now in active war. You will see them attack each other in Space.<br />
+**Spacesuits/Clothing**
+- Sith Loyalists have been expanded to have both Purge Trooper and Sith Trooper armor variety. Varu'un Ambassadors have been replaced with Sith Ambassadors
+- Shaw Gang renamed to Swoop Gang and given new armor
+- Hondo Ohnaka is now The Collector. The Scow is renamed to Ohnaka Gang Base and it's NPCs are Ohnaka Gang members. The unique NPC's are wearing varied Bounty Hunter Armor
+- The Shadow Collective has been mixed with the Hondo Ohnaka pirate mod. The grunts have been turned into pirates while the elites and unique NPC's have kept their Mandalorian armor
+- "Prototype Sentinel Armor" replacer for new ETES spacesuit given at end of free tracker questline (still needs armor balancing tho)
+- Replaced Nar Shaddaa Dancer with Princess Leia Slave Outfits and other Star Wars Aliens. This indirectly causes women wearing swimsuits at Niamos to be topless. Sorry not sorry
+- Renamed Coruscant Guard armor on Neon/Nar Shaddaa to Nar Shaddaa armor and added proper armor values to it
+- Neo Crusaders no longer wear mixed outfits
+- Alien heads no longer clip through miner, nomad, commando, and neocrusader helmets
+- Medic Stormtroopers replacing UC Marine Medics<br />
+**Overhauls/Conversions**
+- Star Wars City Additions (Imperial Ships in Coruscant and Rebel Ships in Dantooine)
+- Sith Code Audio for Artifacts
+- Black Galactic Empire flags
+- Coruscant City buildings now have lights and follow a day/night cycle
+- Nar Shaddaa City has been expanded to be more vertical and larger looking. Weaker PC's may notice an FPS loss
+- The Bounty Hunting currency "Astra" is now renamed and re-textured into Beskar
+- Added skeletons to destroyed Taris
+- Added large Dish above Mast Tower to make it look like Rogue One Citadel Tower<br />
+**Balancing**
+- Lore Accurate Weapon Change Overhaul
+- Darksaber will no longer be used or dropped by normal enemies and instead only by Yuuzhan Vong
+- Bullet Sponges have indirectly been fixed due to downgrading Ascension to 1.4.5
+- Removed the EM resist that Yuuzhan Vong NPC's naturally had (from Ascension)
+- Fixed Shaw Gang bullet sponges and invisible heads
+- Patched Ascension's poor weapon accuracy with good accuracy instead<br />
+**Economy**
+- 90% cheaper to register ships (this allows you to steal ships, register them, and sell them for profit)
+- The Bank Raid (Legacy's End) mission now rewards 1 million credits instead of 250k<br />
+**Misc**
+- Continued Renaming Project Development
+- Color corrected dock cutscene
+- AU converted to LY (light years)
+- Alternate Paradiso (Niamos) Solution
+- Buildable Astromech Droids inside ship
+- Lt. Torres and Captain Myeong now wear their correct faction's space armor during main quest<br />
+**Bug Fixes**
+- Essential NPC's is turned back on as it was causing too many issues with quests. Will find a replacement mod in the future.
+- Star Wars Datapads text fixed
+- Melee attacks and Force Powers no longer get cancelled in third person due to Quick Lowered Weapons
+- You no longer flail while falling/using the Jetpack
+
 ## **Common Problems and Questions**
 1. How do I get X Weapon/Armor?<br />
    Every single thing in this modlist can be acquired ingame through natural progression. If you want to skip that, then download the Star Wars Genesis Encyclopedia in my Discord and find the base game equivalent of the Weapon/Armor you want. Google the ID of that item and spawn it in with console commands. I DO NOT SUPPORT ANYTHING IN THE WORKBENCHES. You are free to use stuff in the workbenches but they are not balanced around Star Wars Genesis and may even be buggy.
