@@ -98,7 +98,7 @@ Please read each mod instruction carefully. They're manually installed in differ
 **Gameplay**
 - Better Weather System for ALL Planets
 - Populated planets now have WAY more POI's while barren planets remain the same
-- Removed loading screens between galaxy to galaxy travel and replaced it with Hyperspace VFX Transitions
+- Removed and replaced integalactic loading screens with Hyperspace VFX Transitions
 - Gravity Wave converted to proper Force Push
 - Star Wars Background and Traits
 - Terrifying Terrormorphs Revamp, converting them into Corrupted Rakghouls that inflict allies with Rakghoul plague, turning allies against you and making your character hear voices in their head. Variations include Dread Rakghouls, Phantom Rakghouls, Nightmare Rakghouls, and more.
