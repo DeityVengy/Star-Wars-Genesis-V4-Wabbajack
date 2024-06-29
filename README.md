@@ -87,14 +87,15 @@ Please read each mod instruction carefully. They're manually installed in differ
 1. Make sure your difficulty settings are all on normal.
 2. For every new jetpack you equip, you must press F1 to activate the jetpack mod. This will unequip your current jetpack so you will have to equip the jetpack again and then press F1 again
 
-## **Patch Notes**
-**V3 to V4 Patch Notes**
+## **Patch Notes (v3 to V4)**
+
 ------------------------------------------------------------------
 **General**
 - **Wabbajack support**
 - Updated StarfieldCustom.ini file with better textures/display config
 - KiLoader/Loose Root Data Implementation
-- Removed 4 redundant plugins and integrated them into Genesis<br />
+- Removed 4 redundant plugins and integrated them into Genesis
+
 **Gameplay**
 - Better Weather System for ALL Planets
 - Removed loading screens between galaxy to galaxy travel and replaced it with Hyperspace VFX Transitions
@@ -103,7 +104,8 @@ Please read each mod instruction carefully. They're manually installed in differ
 - Terrifying Terrormorphs Revamp, converting them into Corrupted Rakghouls that inflict allies with Rakghoul plague, turning allies against you and making your character hear voices in their head. Variations include Dread Rakghouls, Phantom Rakghouls, Nightmare Rakghouls, and more.
 - Added rare absorbable Kyber Crystals near planet landing areas. Every 3 you absorb gives you 1 skill point
 - Added scattered Jedi/Sith Temple Ruins that reward you with unique force powers or status effects
-- The Empire and the Rebels are now in active war. You will see them attack each other in Space.<br />
+- The Empire and the Rebels are now in active war. You will see them attack each other in Space.
+
 **Spacesuits/Clothing**
 - Sith Loyalists have been expanded to have both Purge Trooper and Sith Trooper armor variety. Varu'un Ambassadors have been replaced with Sith Ambassadors
 - Shaw Gang renamed to Swoop Gang and given new armor
@@ -115,6 +117,7 @@ Please read each mod instruction carefully. They're manually installed in differ
 - Neo Crusaders no longer wear mixed outfits
 - Alien heads no longer clip through miner, nomad, commando, and neocrusader helmets
 - Medic Stormtroopers replacing UC Marine Medics<br />
+
 **Overhauls/Conversions**
 - Star Wars City Additions (Imperial Ships in Coruscant and Rebel Ships in Dantooine)
 - Sith Code Audio for Artifacts
@@ -130,17 +133,20 @@ Please read each mod instruction carefully. They're manually installed in differ
 - Bullet Sponges have indirectly been fixed due to downgrading Ascension to 1.4.5
 - Removed the EM resist that Yuuzhan Vong NPC's naturally had (from Ascension)
 - Fixed Shaw Gang bullet sponges and invisible heads
-- Patched Ascension's poor weapon accuracy with good accuracy instead<br />
+- Patched Ascension's poor weapon accuracy with good accuracy instead
+
 **Economy**
 - 90% cheaper to register ships (this allows you to steal ships, register them, and sell them for profit)
-- The Bank Raid (Legacy's End) mission now rewards 1 million credits instead of 250k<br />
+- The Bank Raid (Legacy's End) mission now rewards 1 million credits instead of 250k
+
 **Misc**
 - Continued Renaming Project Development
 - Color corrected dock cutscene
 - AU converted to LY (light years)
 - Alternate Paradiso (Niamos) Solution
 - Buildable Astromech Droids inside ship
-- Lt. Torres and Captain Myeong now wear their correct faction's space armor during main quest<br />
+- Lt. Torres and Captain Myeong now wear their correct faction's space armor during main quest
+
 **Bug Fixes**
 - Essential NPC's is turned back on as it was causing too many issues with quests. Will find a replacement mod in the future.
 - Star Wars Datapads text fixed
