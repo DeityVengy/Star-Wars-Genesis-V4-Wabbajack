@@ -97,6 +97,7 @@ Please read each mod instruction carefully. They're manually installed in differ
 
 **Gameplay**
 - Better Weather System for ALL Planets
+- Populated planets now have WAY more POI's while barren planets remain the same
 - Removed loading screens between galaxy to galaxy travel and replaced it with Hyperspace VFX Transitions
 - Gravity Wave converted to proper Force Push
 - Star Wars Background and Traits
@@ -115,17 +116,21 @@ Please read each mod instruction carefully. They're manually installed in differ
 - Renamed Coruscant Guard armor on Neon/Nar Shaddaa to Nar Shaddaa armor and added proper armor values to it
 - Neo Crusaders no longer wear mixed outfits
 - Alien heads no longer clip through miner, nomad, commando, and neocrusader helmets
-- Medic Stormtroopers replacing UC Marine Medics<br />
+- Medic Stormtroopers replacing UC Marine Medics
 
 **Overhauls/Conversions**
 - Star Wars City Additions (Imperial Ships in Coruscant and Rebel Ships in Dantooine)
+- Stormtrooper Voice Lines
+- Rebel Voice Lines
+- Nar Shaddaa Voice Lines
 - Sith Code Audio for Artifacts
 - Black Galactic Empire flags
 - Coruscant City buildings now have lights and follow a day/night cycle
 - Nar Shaddaa City has been expanded to be more vertical and larger looking. Weaker PC's may notice an FPS loss
 - The Bounty Hunting currency "Astra" is now renamed and re-textured into Beskar
 - Added skeletons to destroyed Taris
-- Added large Dish above Mast Tower to make it look like Rogue One Citadel Tower<br />
+- Added large Dish above Mast Tower to make it look like Rogue One Citadel Tower
+
 **Balancing**
 - Lore Accurate Weapon Change Overhaul
 - Darksaber will no longer be used or dropped by normal enemies and instead only by Yuuzhan Vong
@@ -133,13 +138,13 @@ Please read each mod instruction carefully. They're manually installed in differ
 - Removed the EM resist that Yuuzhan Vong NPC's naturally had (from Ascension)
 - Fixed Shaw Gang bullet sponges and invisible heads
 - Patched Ascension's poor weapon accuracy with good accuracy instead
+- Continued Renaming Project Development
 
 **Economy**
 - 90% cheaper to register ships (this allows you to steal ships, register them, and sell them for profit)
 - The Bank Raid (Legacy's End) mission now rewards 1 million credits instead of 250k
 
 **Misc**
-- Continued Renaming Project Development
 - Color corrected dock cutscene
 - AU converted to LY (light years)
 - Alternate Paradiso (Niamos) Solution
