@@ -87,9 +87,8 @@ Please read each mod instruction carefully. They're manually installed in differ
 1. Make sure your difficulty settings are all on normal.
 2. For every new jetpack you equip, you must press F1 to activate the jetpack mod. This will unequip your current jetpack so you will have to equip the jetpack again and then press F1 again
 
-## **Patch Notes (v3 to V4)**
+## **Patch Notes (V3 to V4)**
 
-------------------------------------------------------------------
 **General**
 - **Wabbajack support**
 - Updated StarfieldCustom.ini file with better textures/display config
