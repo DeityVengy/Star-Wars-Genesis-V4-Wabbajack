@@ -117,6 +117,7 @@ Please read each mod instruction carefully. They're manually installed in differ
 - Neo Crusaders no longer wear mixed outfits
 - Alien heads no longer clip through miner, nomad, commando, and neocrusader helmets
 - Medic Stormtroopers replacing UC Marine Medics
+- Smuggler Armor now has the proper arms
 
 **Overhauls/Conversions**
 - Star Wars City Additions (Imperial Ships in Coruscant and Rebel Ships in Dantooine)
