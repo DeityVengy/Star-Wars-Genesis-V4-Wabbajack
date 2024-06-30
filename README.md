@@ -109,6 +109,7 @@ Please read each mod instruction carefully. They're manually installed in differ
 **Spacesuits/Clothing**
 - Sith Loyalists have been expanded to have both Purge Trooper and Sith Trooper armor variety. Varu'un Ambassadors have been replaced with Sith Ambassadors
 - Shaw Gang renamed to Swoop Gang and given new armor
+- The Ebbside Strikers are now Revanites
 - Hondo Ohnaka is now The Collector. The Scow is renamed to Ohnaka Gang Base and it's NPCs are Ohnaka Gang members. The unique NPC's are wearing varied Bounty Hunter Armor
 - The Shadow Collective has been mixed with the Hondo Ohnaka pirate mod. The grunts have been turned into pirates while the elites and unique NPC's have kept their Mandalorian armor
 - "Prototype Sentinel Armor" replacer for new ETES spacesuit given at end of free tracker questline (still needs armor balancing tho)
