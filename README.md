@@ -132,6 +132,7 @@ Please read each mod instruction carefully. They're manually installed in differ
 - The Bounty Hunting currency "Astra" is now renamed and re-textured into Beskar
 - Added skeletons to destroyed Taris
 - Added large Dish above Mast Tower to make it look like Rogue One Citadel Tower
+- Bigger Rocks/Trees
 
 **Balancing**
 - Lore Accurate Weapon Change Overhaul
