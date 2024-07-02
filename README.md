@@ -59,7 +59,7 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 **Note: All google drive links are still installed by Mod Organizer 2. Just drag the archive into the downloads section of MO2 and install as you normally would**<br />
 
 <br />**HD Overhaul (OPTIONAL)**<br />
-[This](https://www.nexusmods.com/starfield/mods/5124?tab=files) amounts to 100+ GB of 2-4K textures and will lead to performance iossues if you have a weak PC. 
+[This](https://www.nexusmods.com/starfield/mods/5124?tab=files) amounts to 100+ GB of 2-4K textures and will lead to performance issues if you have a weak PC. 
 1. Download and install all available parts and make sure you name them the correct part number when installing (Ex. Part 1, Part 2, etc)
 2. Download and install HD Overhaul Textures Patch
 3. Download and install Starfield HD Overhaul ESM
