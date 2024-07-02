@@ -42,7 +42,7 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
    Drag the contents of sfse_0_2_9 into steamapps\common\Starfield <br />
    Add SFSE to MO2 by following these instructions: [link](https://www.youtube.com/watch?v=OWVri7somCI&t=85s)
 2. Download Star Wars Genesis - Root Folder Pack from [here](https://drive.google.com/file/d/1j8doGqNVUmXwYbkEDGk4lPTxzOoYCHD-/view?usp=drive_link) and drag all the contents into steamapps\common\Starfield <br />
-   **Now Run enable_hotkeys.cmd in that same directory**. If you don't see enable_hotkeys.cmd in your steamapps\common\Starfield folder, then you installed this wrong. 
+   **Now run enable_hotkeys.cmd in that same directory**. If you don't see enable_hotkeys.cmd in your steamapps\common\Starfield folder, then you installed this wrong. 
 
 ## **Wabbajack Install**   <br />
 
