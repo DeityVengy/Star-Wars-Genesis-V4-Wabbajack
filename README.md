@@ -191,4 +191,5 @@ Got any more questions? Stuck on something during the install guide? Experiencin
 
 ## **Additional Credits**
 [Xaroph](https://next.nexusmods.com/profile/Xaroph/mods) for 90% of the Clothing Pack<br />
-[Zone79](https://next.nexusmods.com/profile/zone79/about-me) for the Nomad Assets in the Armor Pack
+[Zone79](https://next.nexusmods.com/profile/zone79/about-me) for the Nomad Assets in the Armor Pack<br />
+[Bonepunk](https://next.nexusmods.com/profile/Bonepunk/mods?gameId=4187) for providing the raw ESP's to his mods
