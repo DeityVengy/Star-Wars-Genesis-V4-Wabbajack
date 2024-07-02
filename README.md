@@ -189,5 +189,5 @@ _P.S. I try my best to get permission from people that actually created somethin
 Got any more questions? Stuck on something during the install guide? Experiencing a bug? Please join the Discord at https://discord.gg/sqKTwGRwwY
 
 ## **Additional Credits**
-[Xaroph](https://next.nexusmods.com/profile/Xaroph/mods) for 90% of Star Wars Clothing Pack<br />
+[Xaroph](https://next.nexusmods.com/profile/Xaroph/mods) for 90% of the Clothing Pack<br />
 [Zone79](https://next.nexusmods.com/profile/zone79/about-me) for the Nomad Assets in the Armor Pack
