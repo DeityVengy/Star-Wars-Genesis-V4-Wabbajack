@@ -148,6 +148,7 @@ Please read each mod instruction carefully. They're manually installed in differ
 - The Bank Raid (Legacy's End) mission now rewards 1 million credits instead of 250k
 
 **Misc**
+- 4K Upscale Loading Screens
 - Color corrected dock cutscene
 - AU converted to LY (light years)
 - Alternate Paradiso (Niamos) Solution
