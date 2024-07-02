@@ -22,7 +22,7 @@ THIS IS THE BETA VERSION OF V4. IF YOU'RE READING THIS, INSTALL AT YOUR OWN RISK
 - Rebalanced Economy <br />
 
 ## **Requirements:**
-1. Steam version of Starfield. Alot of these mods have posts about people having issues installing it on the GamePass and MS Store version and some of them straight up aren't compatible. You are completely on your own unfortunately if you choose to go through it knowing this
+1.  Nonpirated **Steam** version of Starfield. Alot of these mods have posts about people having issues installing it on the GamePass and MS Store version and some of them straight up aren't compatible. You are completely on your own unfortunately if you choose to go through it knowing this. Nothing against pirating tbh but Wabbajack won't work on pirated game installs since they do an integrity check and the pirated version is always a few patches behind. So please don't waste my time asking for help because it's a lost cause.
 2. Version 1.12.32 of Starfield. PLEASE TURN OFF AUTOMATIC UPDATES for your sake and don't ever update until a newer version of Star Wars Genesis releases. Bethesda is known for breaking mods in their updates and you may still have issues if you choose to downgrade.
 3. DOUBLE CHECK THAT YOU TURNED OFF AUTOMATIC UPDATES FOR STARFIELD
 4. Decent Gaming PC. Make sure unmodded Starfield alone runs fine on your PC before attempting these mods. If you're lagging after installing these mods with a budget build, you can disable the HD Overhaul to alleviate it.
