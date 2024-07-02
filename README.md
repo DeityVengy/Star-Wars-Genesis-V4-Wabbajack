@@ -178,7 +178,7 @@ Please read each mod instruction carefully. They're manually installed in differ
    Because Nexus Mods is unironically anti-mod. I need permission to modify and update people's files that have been inactive and abandoned for 6+ months. Their mod isn't working anymore. No one is downloading it anymore. No one can contact the original owner. But for some reason I'm not allowed to fix it. Also it's absolutely absurd that you can copyright mods that take like 2 minutes to make. It takes longer to upload and post that mod than actually making it. I'm specifically talking about mods that for example change a single value from like 5 to 10 or change the color of an existing ingame outfit from purple to brown. I don't care that you think you have ownership of the idea that you can modify something that already exists within the game lol. I also understandably can't upload any mods with Star Wars music due to copyright, but in reality it's not like Disney would actually care... just like they don't care about the dozen other mods that are still sitting on Nexus that do pretty much the same thing. Basically all it takes is 1 moderator having a bad day to search "Star Wars" and wipe the entire modding scene. So to be quite honest, I don't really care about any these rules and just want to make a proper Star Wars game/modlist. I allow all my mods be modified and re-uploaded freely. I allow this modlist to be re-uploaded and modified freely. I have multiple backups of all files in this modlist so that Star Wars Genesis is never held hostage by deleted mods. At the end of the day, I promise you that the majority of people don't care about stuff like this and just want to play a fun modlist. 
    
 _P.S. I try my best to get permission from people that actually created something though. I also don't mind buying the rights to modify or re-upload well made mods like I've done with Neocrusaders and Dark Troopers or straight up commissioning a mod myself like Yuuzhan Vong, etc._
-   
+
 ## **Gameplay**<br />
 [![Star Wars Genesis V3: Total Conversion Modlist for Starfield](https://res.cloudinary.com/marcomontalbano/image/upload/v1718193439/video_to_markdown/images/youtube--kwS_D4jWfps-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=kwS_D4jWfps "Star Wars Genesis V3: Total Conversion Modlist for Starfield")
 [![Star Wars Genesis V2: Total Conversion Modlist for Starfield](https://res.cloudinary.com/marcomontalbano/image/upload/v1718193457/video_to_markdown/images/youtube--7G8ru-d8oSA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=7G8ru-d8oSA "Star Wars Genesis V2: Total Conversion Modlist for Starfield")
@@ -188,4 +188,6 @@ _P.S. I try my best to get permission from people that actually created somethin
 ## **Discord**
 Got any more questions? Stuck on something during the install guide? Experiencing a bug? Please join the Discord at https://discord.gg/sqKTwGRwwY
 
-
+## **Additional Credits**
+[Xaroph](https://next.nexusmods.com/profile/Xaroph/mods) for the Star Wars Clothing Retextures Pack
+[Zone79](https://next.nexusmods.com/profile/zone79/about-me) for the Nomad Assets
