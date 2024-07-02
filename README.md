@@ -38,7 +38,6 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 1. If you've modded Starfield at launch and/or with Vortex Mod Manager, your setup is probably a mess. Please uninstall Starfield completely (delete both Starfield folders in "My Games" and "steamapps\common" folder) and then install it again to delete any remnants of old mods. <br />
 
 ## **Manually Installed Mods:**<br />
-Please read each mod instruction carefully. They're manually installed in different places. <br />
 1. Starfield Script Extender (V0.29) [link](https://www.nexusmods.com/starfield/mods/106?tab=files)  <br />
    Drag the contents of sfse_0_2_9 into steamapps\common\Starfield <br />
    Add SFSE to MO2 by following these instructions: [link](https://www.youtube.com/watch?v=OWVri7somCI&t=85s)
