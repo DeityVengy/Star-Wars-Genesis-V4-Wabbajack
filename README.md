@@ -38,10 +38,7 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 1. If you've modded Starfield at launch and/or with Vortex Mod Manager, your setup is probably a mess. Please uninstall Starfield completely (delete both Starfield folders in "My Games" and "steamapps\common" folder) and then install it again to delete any remnants of old mods. <br />
 
 ## **Manually Installed Mods:**<br />
-1. Starfield Script Extender (V0.29) [link](https://www.nexusmods.com/starfield/mods/106?tab=files)  <br />
-   Drag the contents of sfse_0_2_9 into steamapps\common\Starfield <br />
-   Add SFSE to MO2 by following these instructions: [link](https://www.youtube.com/watch?v=OWVri7somCI&t=85s)
-2. Download Star Wars Genesis - Root Folder Pack from [here](https://drive.google.com/file/d/1j8doGqNVUmXwYbkEDGk4lPTxzOoYCHD-/view?usp=drive_link) and drag all the contents into steamapps\common\Starfield <br />
+1. Download Star Wars Genesis - Root Folder Pack from [here](https://drive.google.com/file/d/1j8doGqNVUmXwYbkEDGk4lPTxzOoYCHD-/view?usp=drive_link) and drag all the contents into steamapps\common\Starfield <br />
    **Now run enable_hotkeys.cmd in that same directory**. If you don't see enable_hotkeys.cmd in your steamapps\common\Starfield folder, then you installed this wrong. 
 
 ## **Wabbajack Install**   <br />
