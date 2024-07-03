@@ -37,19 +37,15 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 ## **IMPORTANT PRE-STEPS**   <br />
 1. If you've modded Starfield at launch and/or with Vortex Mod Manager, your setup is probably a mess. Please uninstall Starfield completely (delete both Starfield folders in "My Games" and "steamapps\common" folder) and then install it again to delete any remnants of old mods. <br />
 
-## **Manually Installed Mods:**<br />
-1. Download Star Wars Genesis - Root Folder Pack from [here](https://drive.google.com/file/d/1j8doGqNVUmXwYbkEDGk4lPTxzOoYCHD-/view?usp=drive_link) and drag all the contents into steamapps\common\Starfield <br />
-   **Now run enable_hotkeys.cmd in that same directory**. If you don't see enable_hotkeys.cmd in your steamapps\common\Starfield folder, then you installed this wrong. 
-
 ## **Wabbajack Install**   <br />
 
 1. Download Star Wars Genesis Wabbajack Compiler from here
-2. Download and install the latest version of Wabbajack from here
-3. Create a folder called Star Wars Genesis in the location where you want to install everything (AWAY FROM WABBAJACK INSTALL LOCATION).
+2. Download and install the latest version of Wabbajack from [here](https://www.wabbajack.org/)
+3. Create a folder called **Star Wars Genesis** in the location where you want to install everything (AWAY FROM WABBAJACK INSTALL LOCATION).
 4. When you open Wabbajack for the first time, click the gear icon (settings) on the top left and logon to Nexus Mods
 5. In the main menu, choose the "Install From Disk" option
-6. Set your target modlist to the Star Wars Genesis Wabbajack Compiler you downloaded earlier
-7. Set the "Modlist Installation Location" to the Star Wars Genesis folder you created earlier.
+6. Set your target modlist to the **Star Wars Genesis Wabbajack Compiler** you downloaded earlier
+7. Set the "Modlist Installation Location" to the **Star Wars Genesis** folder you created earlier.
 
 ## **Mod Manager Modlist** <br />
 **Note: All google drive links are still installed by Mod Organizer 2. Just drag the archive into the downloads section of MO2 and install as you normally would**<br />
