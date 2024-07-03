@@ -76,8 +76,9 @@ Now you are ready to launch the game. You may click the RUN button at the top ri
 1. Make you you save and restart the game as soon as you load in to fix the sound issue (and numerous other issue)
 
 **ALL SAVES**
-1. Make sure your difficulty settings are all on normal.
-2. For every new jetpack you equip, you must press F1 to activate the jetpack mod. This will unequip your current jetpack so you will have to equip the jetpack again and then press F1 again
+1. Your graphics preset most probably reset back to _Low_, which explains why your game is ugly. Go to settings and change it if you wish.
+2. Make sure your difficulty settings are all on normal.
+3. For every new jetpack you equip, you must press F1 to activate the jetpack mod. This will unequip your current jetpack so you will have to equip the jetpack again and then press F1 again
 
 ## **Patch Notes (V3 to V4)**
 
