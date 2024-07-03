@@ -48,7 +48,6 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 7. Set the "Modlist Installation Location" to the **Star Wars Genesis** folder you created earlier.
 
 ## **Mod Manager Modlist** <br />
-**Note: All google drive links are still installed by Mod Organizer 2. Just drag the archive into the downloads section of MO2 and install as you normally would**<br />
 
 <br />**HD Overhaul (OPTIONAL)**<br />
 [This](https://www.nexusmods.com/starfield/mods/5124?tab=files) amounts to 100+ GB of 2-4K textures and will lead to performance issues if you have a weak PC. 
