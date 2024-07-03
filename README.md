@@ -49,7 +49,6 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 8. Once the install is finished, launch **ModOrganizer.exe** in the _**Star Wars Genesis**_ folder
 
 ## **Mod Manager Modlist** <br />
-
 <br />**HD Overhaul (OPTIONAL)**<br />
 [This](https://www.nexusmods.com/starfield/mods/5124?tab=files) amounts to 100+ GB of 2-4K textures and will lead to performance issues if you have a weak PC. 
 1. Download and install all available parts and make sure you name them the correct part number when installing (Ex. Part 1, Part 2, etc)
@@ -66,6 +65,7 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 
 ## **IN-GAME SETUP**<br />
 Now you are ready to launch the game. You may click the RUN button at the top right of Mod Organizer 2 and follow the next few steps.
+
 **LOADING AN EXISTING SAVE**
 1. If a pop-up asking about load order appears, make sure you click CURRENT
 2. If a warning pops up saying x plugin is missing, do NOT search for it in the creations menu and CONTINUE loading without it. These are redundant plugins that have been integrated into Star Wars Genesis
