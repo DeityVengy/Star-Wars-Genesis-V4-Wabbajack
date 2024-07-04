@@ -126,6 +126,7 @@ Now you are ready to launch the game. You may click the RUN button at the top ri
 - Added skeletons to destroyed Taris
 - Added large Dish above Mast Tower to make it look like Rogue One Citadel Tower
 - Bigger Rocks/Trees
+- Continued Renaming Project Development
 
 **Balancing**
 - Lore Accurate Weapon Change Overhaul
@@ -134,7 +135,7 @@ Now you are ready to launch the game. You may click the RUN button at the top ri
 - Removed the EM resist that Yuuzhan Vong NPC's naturally had (from Ascension)
 - Fixed Shaw Gang bullet sponges and invisible heads
 - Patched Ascension's poor weapon accuracy with good accuracy instead
-- Continued Renaming Project Development
+- Shoretrooper Armor now has correct armor values (1800 reduced to 400)
 
 **Economy**
 - 90% cheaper to register ships (this allows you to steal ships, register them, and sell them for profit)
