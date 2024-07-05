@@ -102,14 +102,14 @@ Now you are ready to launch the game. You may click the RUN button at the top ri
 **Spacesuits/Clothing**
 - Sith Loyalists have been expanded to have both Purge Trooper and Sith Trooper armor variety. Varu'un Ambassadors have been replaced with Sith Ambassadors
 - Shaw Gang renamed to Swoop Gang and given new armor
-- The Ebbside Strikers are now Revanites
+- The Ebbside Strikers are now Revanites with Black Robes (Masked and Maskless Variety)
 - Hondo Ohnaka is now The Collector. The Scow is renamed to Ohnaka Gang Base and it's NPCs are Ohnaka Gang members. The unique NPC's are wearing varied Bounty Hunter Armor
 - The Shadow Collective has been mixed with the Hondo Ohnaka pirate mod. The grunts have been turned into pirates while the elites and unique NPC's have kept their Mandalorian armor
 - "Prototype Sentinel Armor" replacer for new ETES spacesuit given at end of free tracker questline (still needs armor balancing tho)
-- Replaced Nar Shaddaa Dancer with Princess Leia Slave Outfits and other Star Wars Aliens. This indirectly causes women wearing swimsuits at Niamos to be topless. Sorry not sorry
+- Replaced Nar Shaddaa Dancers with Princess Leia Slave Outfits and other Star Wars Aliens
 - Renamed Coruscant Guard armor on Neon/Nar Shaddaa to Nar Shaddaa armor and added proper armor values to it
 - Neo Crusaders no longer wear mixed outfits
-- Alien heads no longer clip through miner, nomad, commando, and neocrusader helmets
+- Alien heads no longer clip through Miner, Nomad, Commando, and Neo Crusader Helmets
 - Medic Stormtroopers replacing UC Marine Medics
 - Smuggler Armor now has the proper arms
 
