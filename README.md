@@ -112,6 +112,10 @@ Now you are ready to launch the game. You may click the RUN button at the top ri
 - Alien heads no longer clip through Miner, Nomad, Commando, and Neo Crusader Helmets
 - Medic Stormtroopers replacing UC Marine Medics
 - Smuggler Armor now has the proper arms
+- Replaced Old Earth Set with Old Republic Knight set (Anakin's Clone War Armor)
+- Replaced Star Roamer Set with Armor Layered Robes (Obi-Wan Clone Wars Armor)
+- Replaced Peacemaker Set with Bounty Hunter Set (Boushh Armor)
+- Replaced Space Rogue Apparal with unarmored Death Watch Armor (Since Bounty Hunter's Alliance wears this in planets with atmosphere)
 
 **Overhauls/Conversions**
 - Star Wars City Additions (Imperial Ships in Coruscant and Rebel Ships in Dantooine)
