@@ -2,7 +2,6 @@
 ![Starfield Modlist Photoshop Cropped](https://github.com/DeityVengy/Star_Wars_Genesis_V2_for_Starfield_1.11.36/assets/170469610/7473f5e6-41f7-44e2-add5-3561df29b1be)
 
 This is a guide on installing the Star Wars Genesis modlist that turns Starfield into Star Wars, as seen on YouTube and featured on IGN.<br />
-THIS IS THE BETA VERSION OF V4. IF YOU'RE READING THIS, INSTALL AT YOUR OWN RISK
 
 
 ## **Overview:**<br />
