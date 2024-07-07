@@ -171,7 +171,7 @@ Now you are ready to launch the game. You may click the RUN button at the top ri
 - You no longer flail while falling/using the Jetpack
 
 ## **Common Problems and Questions**
-1. Xbox Version?
+1. Xbox Version? <br />
    I will personally not be making an Xbox version simply due to me not having an Xbox to test it on myself and large group of mods in this list (the packs, sfse mods, root mods, etc), all not being possible on Xbox. My mods on Nexus are all open permission and free to be ported over by others though, and I've noticed some already have been. You can get something similar on Xbox but not to this level unfortuantely, atleast for awhile.
 3. "Half the modlist isn't working" etc posts
    Go look at the bottom of ur plugin order and see if there's any mods from Bethesda Creations down there. Dissable them all and try again. Multiple people have had issues where certain Creations mods break the modlist.
