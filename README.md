@@ -63,11 +63,6 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 1. Download Star Wars Music and Ambience Overhaul from [here](https://drive.google.com/file/d/1YlhFBB024oBvKIl1q7q6oYUZrnuCORoY/view?usp=drive_link) and **replace** the empty mod when installing.
    Just to clarify, this is installed through MO2. The archive (unextracted) goes into the MO2 downloads folder. Then you right click and install it from the MO2 Downloads Tab. If you don't hear Star Wars Music while walking around cities/planets, then you installed this wrong.
 
-## **Plugin Load Order** <br />
-1. Download plugins.txt and put it into Star Wars Genesis\profiles\Star Wars Genesis Compiler
-2. In Mod Organizer 2, go to the plugins tab on the right and click this button![image](https://github.com/DeityVengy/Star-Wars-Genesis-V4-Wabbajack/assets/170469610/28a6f6fd-be15-4e60-bf82-5b356ab8ce4d)
-3. Choose the top option that comes up
-
 ## **IN-GAME SETUP**<br />
 Now you are ready to launch the game. You may click the RUN button at the top right of Mod Organizer 2 and follow the next few steps.
 
