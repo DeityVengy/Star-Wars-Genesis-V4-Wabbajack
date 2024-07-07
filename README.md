@@ -35,7 +35,7 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 
 
 ## **IMPORTANT PRE-STEPS**   <br />
-1. If you've modded Starfield at launch and/or with Vortex Mod Manager, your setup is probably a mess. Please uninstall Starfield completely (delete both Starfield folders in "My Games" and "steamapps\common" folder) and then install it again to delete any remnants of old mods. <br />
+1. If you've modded Starfield at launch and/or with Vortex Mod Manager, your setup and save is probably a mess. Please uninstall Starfield completely (delete both Starfield folders in "My Games" and "steamapps\common" folder) and then install it again to delete any remnants of old mods. <br />
 
 ## **Wabbajack Install**   <br />
 
