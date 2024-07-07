@@ -91,6 +91,10 @@ Now you are ready to launch the game. You may click the RUN button at the top ri
 3. Make sure your difficulty settings are all on normal.
 4. For every new jetpack you equip, you must press F1 to activate the jetpack mod. This will unequip your current jetpack so you will have to equip the jetpack again and then press F1 again
 
+## Difficulty
+If you're finding the game too hard (especially in the beginning), you can increase your health by 50 or 100 with console commands to make it more doable. The command for that is **_player.modav health 100_**<br />
+If you're finding the game too easy after leveling up and getting proper armor/weapons, you can revert that above change by running this command: **_player.modav health -100_**
+
 ## **Patch Notes (V3 to V4)**
 
 **General**
@@ -177,14 +181,11 @@ Now you are ready to launch the game. You may click the RUN button at the top ri
    Go look at the bottom of ur plugin order and see if there's any mods from Bethesda Creations down there. Dissable them all and try again. Multiple people have had issues where certain Creations mods break the modlist.
 4. How do I get X Weapon/Armor?<br />
    Every single thing in this modlist can be acquired ingame through natural progression. If you want to skip that, then download the Star Wars Genesis Encyclopedia in my Discord and find the base game equivalent of the Weapon/Armor you want. Google the ID of that item and spawn it in with console commands. I DO NOT SUPPORT ANYTHING IN THE WORKBENCHES. You are free to use stuff in the workbenches but they are not balanced around Star Wars Genesis and may even be buggy.
-5. The game is too hard and I'm getting one shot by everything <br />
-   If you're finding the game too hard (especially in the beginning), you can increase your health by 50 or 100 with console commands to make it more doable. The command for that is **player.modav health 100**<br />
-   If you're finding the game too easy after leveling up and getting proper armor/weapons, you can revert that change by running this command: **player.modav health -100**
-6. The game is crashing on startup/isn't launching. <br />
+5. The game is crashing on startup/isn't launching. <br />
    Delete starfield.exe in your steamapps folder and then verify your game files through Steam. You will have to reinstall Part 2 of the Title Screen Overhaul again (scroll up)
-7. Why no lightsabers?<br />
+6. Why no lightsabers?<br />
    There are a few lightsaber and jedi/sith mods but it just doesn't really work or feel immersive, especially with this game's poor melee combat. I will add lightsabers when they are ready with proper animations, deflection, and dismemberment. To be fair, the odds of an average person in Star Wars encountering Jedi/Sith is pretty low anyway. Just make it part of your headcannon lol.
-8. Certain NPC's are missing their heads or aren't converted. How do I fix? <br />
+7. Certain NPC's are missing their heads or aren't converted. How do I fix? <br />
    This happens when you mod existing saves. There are 2 possible solutions. First, save your game. Then open the console, click them (make sure it says NPC), and do resetinventory. If that doesn't work, try using "disable" on them closing the console for them to disappear. Then open console and without clicking anything, do "enable". IF that still doesn't work, then please kindly report it as a bug in my [Discord](https://discord.gg/sqKTwGRwwY)
 
 ## **Gameplay**<br />
