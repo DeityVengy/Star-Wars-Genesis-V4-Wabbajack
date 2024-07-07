@@ -46,10 +46,9 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 1. Download Star Wars Genesis Wabbajack Compiler from here
 2. Download and install the latest version of Wabbajack from [here](https://www.wabbajack.org/)
 3. Create a folder called **_Star Wars Genesis_** in the location where you want to install everything (AWAY FROM WABBAJACK INSTALL LOCATION).
-4. When you open Wabbajack for the first time, click the gear icon (settings) on the top left and logon to Nexus Mods
-5. In the main menu, choose the "_Install From Disk_" option
-6. Set your target modlist to the "_Star Wars Genesis Wabbajack Compiler_" you downloaded earlier
-7. Set the "_Modlist Installation Location_" to the _**Star Wars Genesis**_ folder you created earlier.
+4. Open Wabbajack for the first time and click the gear icon (settings) on the top left, then logon to Nexus Mods.
+5. Close Wabbajack and double click the _Star Wars Genesis.wabbajack_ file you downloaded earlier
+7. Set the "_Modlist Installation Location_" to the _**Star Wars Genesis**_ folder you created earlier. The Resource Downlaod folder should auto-fill. Leave that alone.
 8. Once the install is finished, launch **ModOrganizer.exe** in the _**Star Wars Genesis**_ folder
 
 ## **Mod Manager Modlist** <br />
