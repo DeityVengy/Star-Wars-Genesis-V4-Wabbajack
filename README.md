@@ -102,6 +102,7 @@ If you're finding the game too easy after leveling up and getting proper armor/w
 ## **F.A.Q.**
 ### Black Textures on Armor/Weapons/Faces? <br />
    Download this bat file from [here](https://www.nexusmods.com/starfield/mods/6371?tab=files) and run it. Restart your PC to be safe.<br />
+   If that doesn't work, delete your Data folder in steamapps/common/Starfield and repair the game via Steam<br />
 ### Planets/Dialogue not changed <br />
    Make sure your language for Starfield is set to English on Steam
 ### Xbox Version? <br />
