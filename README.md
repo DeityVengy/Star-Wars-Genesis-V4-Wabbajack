@@ -10,16 +10,20 @@ THIS IS THE BETA VERSION OF V4. IF YOU'RE READING THIS, INSTALL AT YOUR OWN RISK
 - Full Conversion of ALL Factions<br />
 - Full Conversion of ALL Weapons<br />
 - Full Conversion of ALL Spacesuits<br />
-- Notable Locations, Planets, and Dialogue Rewritten<br />
+- Notable Locations, Planets, Items, and Dialogue Rewritten<br />
 - Alien Races<br />
 - Converted Cities & Misc Items<br />
 - Aurebesh Wallpapers, Logos, and other Textures<br />
-- Third Person Combat Revamped<br />
+- Third Person Combat Revamp <br />
 - Gameplay Enhancements and Bug Fixes<br />
 - Immersive Alternate Start Experience<br />
 - 4k Textures<br />
 - Realistic Damage, Balancing, and Scaling<br />
 - Rebalanced Economy <br />
+- POI & Worldgen Revamp<br />
+- Dynamic Weather <br />
+- Active War Between Empire & Rebels
+- Automated Install
 
 ## **Requirements:**
 1.  Nonpirated **Steam** version of Starfield. Alot of these mods have posts about people having issues installing it on the GamePass and MS Store version and some of them straight up aren't compatible. You are completely on your own unfortunately if you choose to go through it knowing this. Nothing against pirating tbh but Wabbajack won't work on pirated game installs since they do an integrity check and the pirated version is always a few patches behind. So please don't waste my time asking for help because it's a lost cause.
