@@ -116,6 +116,9 @@ If you're finding the game too easy after leveling up and getting proper armor/w
 ### Certain NPC's are missing their heads or aren't converted. How do I fix? <br />
    This happens when you mod existing saves. There are 2 possible solutions. First, save your game. Then open the console, click them (make sure it says NPC), and do resetinventory. If that doesn't work, try using "disable" on them closing the console for them to disappear. Then open console and without clicking anything, do "enable". IF that still doesn't work, then please kindly report it as a bug in my [Discord](https://discord.gg/sqKTwGRwwY)
 
+## **Controller Support**
+1. Disable _**BAKA Hold to Sprint**_ under Gameplay
+
 ## **Patch Notes (V3 to V4)**
 
 **General**
