@@ -108,15 +108,15 @@ If you're finding the game too easy after leveling up and getting proper armor/w
 ### Xbox Version? <br />
    I will personally not be making an Xbox version simply due to me not having an Xbox to test it on myself and large group of mods in this list (the packs, sfse mods, root mods, etc), all not being possible on Xbox. My mods on Nexus are all open permission and free to be ported over by others though, and I've noticed some already have been. You can get something similar on Xbox but not to this level unfortuantely, atleast for awhile.
 ### "Half the modlist isn't working" etc posts
-   Go look at the bottom of ur plugin order and see if there's any mods from Bethesda Creations down there. Dissable them all and try again. Multiple people have had issues where certain Creations mods break the modlist.
-### How do I get X Weapon/Armor?<br />
-   Every single thing in this modlist can be acquired ingame through natural progression. If you want to skip that, then download the Star Wars Genesis Encyclopedia in my Discord and find the base game equivalent of the Weapon/Armor you want. Google the ID of that item and spawn it in with console commands. I DO NOT SUPPORT ANYTHING IN THE WORKBENCHES. You are free to use stuff in the workbenches but they are not balanced around Star Wars Genesis and may even be buggy.
+   Go look at the bottom of ur plugin order and see if there's any mods from Bethesda Creations down there. Disable them all and try again. Multiple people have had issues where certain Creations mods break the modlist.
 ### The game is crashing on startup/isn't launching. <br />
    Delete starfield.exe in your steamapps folder and then verify your game files through Steam. You will have to reinstall Part 2 of the Title Screen Overhaul again (scroll up)
-### Why no lightsabers?<br />
-   There are a few lightsaber and jedi/sith mods but it just doesn't really work or feel immersive, especially with this game's poor melee combat. I will add lightsabers when they are ready with proper animations, deflection, and dismemberment. To be fair, the odds of an average person in Star Wars encountering Jedi/Sith is pretty low anyway. Just make it part of your headcannon lol.
 ### Certain NPC's are missing their heads or aren't converted. How do I fix? <br />
    This happens when you mod existing saves. There are 2 possible solutions. First, save your game. Then open the console, click them (make sure it says NPC), and do resetinventory. If that doesn't work, try using "disable" on them closing the console for them to disappear. Then open console and without clicking anything, do "enable". IF that still doesn't work, then please kindly report it as a bug in my [Discord](https://discord.gg/sqKTwGRwwY)
+### How do I get X Weapon/Armor?<br />
+   Every single thing in this modlist can be acquired ingame through natural progression. If you want to skip that, then download the Star Wars Genesis Encyclopedia in my Discord and find the base game equivalent of the Weapon/Armor you want. Google the ID of that item and spawn it in with console commands. I DO NOT SUPPORT ANYTHING IN THE WORKBENCHES. You are free to use stuff in the workbenches but they are not balanced around Star Wars Genesis and may even be buggy.
+### Why no lightsabers?<br />
+   There are a few lightsaber and jedi/sith mods but it just doesn't really work or feel immersive, especially with this game's poor melee combat. I will add lightsabers when they are ready with proper animations, deflection, and dismemberment. To be fair, the odds of an average person in Star Wars encountering Jedi/Sith is pretty low anyway. Just make it part of your headcannon lol.
 
 ## **Controller Support**
 1. Disable _**BAKA Hold to Sprint**_ under Gameplay
