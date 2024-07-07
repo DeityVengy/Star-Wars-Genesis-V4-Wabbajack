@@ -63,7 +63,7 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
    Just to clarify, this is installed through MO2. The archive (unextracted) goes into the MO2 downloads folder. Then you right click and install it from the MO2 Downloads Tab. If you don't hear Star Wars Music while walking around cities/planets, then you installed this wrong.
 
 ## **IN-GAME SETUP**<br />
-Now you are ready to launch the game. You may click the RUN button at the top right of Mod Organizer 2 and follow the next few steps.
+Now you are ready to launch the game. You may click the RUN button at the top right of Mod Organizer 2 and follow the next few steps. PLEASE DO NOT PANIC if it takes awhile to start for the first time.
 
 **LOADING AN EXISTING SAVE**
 1. If a pop-up asking about load order appears, make sure you click CURRENT
