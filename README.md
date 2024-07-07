@@ -93,7 +93,7 @@ Now you are ready to launch the game. You may click the RUN button at the top ri
 2. Music is off by default for some reason. Highly recommend turning that above "0" so you can hear the amazing soundtrack
 3. Make sure your difficulty settings are all on normal.
 4. For every new jetpack you equip, you must press F1 to activate the jetpack mod. This will unequip your current jetpack so you will have to equip the jetpack again and then press F1 again
-5. Going to mention it one more time here. Disable automatic updates for Starfield
+5. Going to mention it one more time here. Disable automatic updates for Starfieldon Steam
 
 ## Difficulty (Optional)
 If you're finding the game too hard (especially in the beginning), you can increase your health by 50 or 100 with console commands to make it more doable. The command for that is: **_player.modav health 100_**<br />
