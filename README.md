@@ -183,8 +183,7 @@ Now you are ready to launch the game. You may click the RUN button at the top ri
    These are pre-order bonuses/dlcs. You can safely ignore
 
 ## **Gameplay**<br />
-[![Star Wars Genesis V3: Total Conversion Modlist for Starfield](https://res.cloudinary.com/marcomontalbano/image/upload/v1718193439/video_to_markdown/images/youtube--kwS_D4jWfps-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=kwS_D4jWfps "Star Wars Genesis V3: Total Conversion Modlist for Starfield")
-[![Star Wars Genesis V2: Total Conversion Modlist for Starfield](https://res.cloudinary.com/marcomontalbano/image/upload/v1718193457/video_to_markdown/images/youtube--7G8ru-d8oSA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=7G8ru-d8oSA "Star Wars Genesis V2: Total Conversion Modlist for Starfield")
+[![Star Wars Genesis V4](https://res.cloudinary.com/marcomontalbano/image/upload/v1720351573/video_to_markdown/images/youtube--YtV3J-dGmBo-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=YtV3J-dGmBo "Star Wars Genesis V4")
 
 
 ## **Discord**
@@ -193,7 +192,7 @@ Got any more questions? Stuck on something during the install guide? Experiencin
 ## **Additional Credits**
 [Xaroph](https://next.nexusmods.com/profile/Xaroph/mods) for 90% of the Clothing Pack<br />
 [Zone79](https://next.nexusmods.com/profile/zone79/about-me) for the Nomad Assets in the Armor Pack<br />
-[Bonepunk](https://next.nexusmods.com/profile/Bonepunk/mods?gameId=4187) for providing the raw ESP's to his mod in order to properly balance the armor values for Genesis<br />
+[Bonepunk](https://next.nexusmods.com/profile/Bonepunk/mods?gameId=4187) for providing the raw ESP's to his mods in order to properly balance the armor values for Genesis<br />
 [SquareBeard](https://next.nexusmods.com/profile/SquareBeard/mods?gameId=4187) for specifically making mods for Genesis <br />
 [crozzbow](https://next.nexusmods.com/profile/crozzbow/mods?gameId=4187) and [radicalclownfriend](https://next.nexusmods.com/profile/radicalclownfriend/mods?gameId=4187) for being the main reason I started this project in the first place. Their mods are the foundation of everything.
 
