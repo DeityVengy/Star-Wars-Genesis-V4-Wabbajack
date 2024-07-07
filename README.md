@@ -175,8 +175,8 @@ If you're finding the game too easy after leveling up and getting proper armor/w
 - You no longer flail while falling/using the Jetpack
 
 ## **F.A.Q.**
-### Black Textures on Armor and Weapons? <br />
-
+### Black Textures on Armor/Weapons/Faces? <br />
+   This is a game issue, not a modlist issue. I've tried to fix it for other people with countless recommendations I found online and the only real fix is just uninstalling your game and then reinstalling. You do not have the reinstall the modlist
 ### Planets and other dialogue not being named correctly? <br />
    Make sure your language for Starfield is set to English on Steam
 ### Xbox Version? <br />
