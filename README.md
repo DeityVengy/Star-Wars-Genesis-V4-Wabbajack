@@ -101,7 +101,7 @@ If you're finding the game too easy after leveling up and getting proper armor/w
 ## **F.A.Q.**
 ### Black Textures on Armor/Weapons/Faces? <br />
    This is a game issue, not a modlist issue. Try deleting the Data folder in steamapps/common/Starfield and then repair your game through Steam.<br />
-## Planets/Dialogue not changed <br />
+### Planets/Dialogue not changed <br />
    Make sure your language for Starfield is set to English on Steam
 ### Xbox Version? <br />
    I will personally not be making an Xbox version simply due to me not having an Xbox to test it on myself and large group of mods in this list (the packs, sfse mods, root mods, etc), all not being possible on Xbox. My mods on Nexus are all open permission and free to be ported over by others though, and I've noticed some already have been. You can get something similar on Xbox but not to this level unfortuantely, atleast for awhile.
