@@ -93,6 +93,7 @@ Now you are ready to launch the game. You may click the RUN button at the top ri
 2. Music is off by default for some reason. Highly recommend turning that above "0" so you can hear the amazing soundtrack
 3. Make sure your difficulty settings are all on normal.
 4. For every new jetpack you equip, you must press F1 to activate the jetpack mod. This will unequip your current jetpack so you will have to equip the jetpack again and then press F1 again
+5. Going to mention it one more time here. Disable automatic updates for Starfield
 
 ## Difficulty (Optional)
 If you're finding the game too hard (especially in the beginning), you can increase your health by 50 or 100 with console commands to make it more doable. The command for that is: **_player.modav health 100_**<br />
@@ -100,7 +101,7 @@ If you're finding the game too easy after leveling up and getting proper armor/w
 
 ## **F.A.Q.**
 ### Black Textures on Armor/Weapons/Faces? <br />
-   This is a game issue, not a modlist issue. Try deleting the Data folder in steamapps/common/Starfield and then repair your game through Steam.<br />
+   Working on this. Only a select few people are having this issue and I don't know why. It's most probably a game issue.<br />
 ### Planets/Dialogue not changed <br />
    Make sure your language for Starfield is set to English on Steam
 ### Xbox Version? <br />
