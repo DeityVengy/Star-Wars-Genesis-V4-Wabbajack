@@ -111,8 +111,12 @@ If you're finding the game too easy after leveling up and getting proper armor/w
    Go look at the bottom of ur plugin order and see if there's any mods from Bethesda Creations down there. Disable them all and try again. Multiple people have had issues where certain Creations mods break the modlist.
 ### The game is crashing on startup/isn't launching. <br />
    Delete starfield.exe in your steamapps folder and then verify your game files through Steam. You will have to reinstall Part 2 of the Title Screen Overhaul again (scroll up)
-### Certain NPC's are missing their heads or aren't converted. How do I fix? <br />
+### Certain NPC's are missing their heads/hands/weapons <br />
    This happens when you mod existing saves. There are 2 possible solutions. First, save your game. Then open the console, click them (make sure it says NPC), and do resetinventory. If that doesn't work, try using "disable" on them closing the console for them to disappear. Then open console and without clicking anything, do "enable". IF that still doesn't work, then please kindly report it as a bug in my [Discord](https://discord.gg/sqKTwGRwwY)
+### Failed to save game<br />
+   1. Check Documents\My Games\Starfield\Saves. If any of these folders don't exist, create them in that order.
+   2. Under Virus and Threat Protection Settings (Windows Security), go to "Manage Controlled Folder Access" whitelist the Starfield folder in both Documents/My Games/Starfield and steamapps/common/starfield.
+   3. Disable OneDrive Sync on your Documents folder
 ### How do I get X Weapon/Armor?<br />
    Every single thing in this modlist can be acquired ingame through natural progression. If you want to skip that, then download the Star Wars Genesis Encyclopedia in my Discord and find the base game equivalent of the Weapon/Armor you want. Google the ID of that item and spawn it in with console commands. I DO NOT SUPPORT ANYTHING IN THE WORKBENCHES. You are free to use stuff in the workbenches but they are not balanced around Star Wars Genesis and may even be buggy.
 ### Why no lightsabers?<br />
