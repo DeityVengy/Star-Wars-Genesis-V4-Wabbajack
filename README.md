@@ -50,6 +50,9 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 7. Set the "_Modlist Installation Location_" to the _**Star Wars Genesis**_ folder you created earlier. The Resource Downlaod folder should auto-fill. Leave that alone.
 8. Once the install is finished, launch **ModOrganizer.exe** in the _**Star Wars Genesis**_ folder
 
+## **IMPORTANT POST-STEP** <br />
+1. Go to Documents\My Games\Starfield and place the [StarfieldCustom.ini](https://drive.google.com/drive/folders/1Sc8CSPkBWlUpbpyesai26M0n9GK3R9ZE?usp=sharing) file in there
+
 ## **Mod Manager Modlist** <br />
 <br />**HD Overhaul (OPTIONAL)**<br />
 [This](https://www.nexusmods.com/starfield/mods/5124?tab=files) amounts to 100+ GB of 2-4K textures and will lead to performance issues if you have a weak PC. 
@@ -84,6 +87,7 @@ Now you are ready to launch the game. You may click the RUN button at the top ri
    - Everything else on Ultra (if you can)
    - Show Damage Numbers OFF under Interface
    - Dialogue and General Subtitles ON under Accessibility
+2. Music is off by default for some reason. Highly recommend turning that above "0" so you can hear the amazing soundtrack
 3. Make sure your difficulty settings are all on normal.
 4. For every new jetpack you equip, you must press F1 to activate the jetpack mod. This will unequip your current jetpack so you will have to equip the jetpack again and then press F1 again
 
@@ -167,9 +171,11 @@ Now you are ready to launch the game. You may click the RUN button at the top ri
 - You no longer flail while falling/using the Jetpack
 
 ## **Common Problems and Questions**
-1. How do I get X Weapon/Armor?<br />
+1. "Half the modlist isn't working" etc posts
+   Go look at the bottom of ur plugin order and see if there's any mods from Bethesda Creations down there. Dissable them all and try again. Multiple people have had issues where certain Creations mods break the modlist.
+2. How do I get X Weapon/Armor?<br />
    Every single thing in this modlist can be acquired ingame through natural progression. If you want to skip that, then download the Star Wars Genesis Encyclopedia in my Discord and find the base game equivalent of the Weapon/Armor you want. Google the ID of that item and spawn it in with console commands. I DO NOT SUPPORT ANYTHING IN THE WORKBENCHES. You are free to use stuff in the workbenches but they are not balanced around Star Wars Genesis and may even be buggy.
-2. The game is too hard and I'm getting one shot by everything <br />
+3. The game is too hard and I'm getting one shot by everything <br />
    If you're finding the game too hard (especially in the beginning), you can increase your health by 50 or 100 with console commands to make it more doable. The command for that is **player.modav health 100**<br />
    If you're finding the game too easy after leveling up and getting proper armor/weapons, you can revert that change by running this command: **player.modav health -100**
 4. The game is crashing on startup/isn't launching. <br />
@@ -178,8 +184,6 @@ Now you are ready to launch the game. You may click the RUN button at the top ri
    There are a few lightsaber and jedi/sith mods but it just doesn't really work or feel immersive, especially with this game's poor melee combat. I will add lightsabers when they are ready with proper animations, deflection, and dismemberment. To be fair, the odds of an average person in Star Wars encountering Jedi/Sith is pretty low anyway. Just make it part of your headcannon lol.
 6. Certain NPC's are missing their heads or aren't converted. How do I fix? <br />
    This happens when you mod existing saves. There are 2 possible solutions. First, save your game. Then open the console, click them (make sure it says NPC), and do resetinventory. If that doesn't work, try using "disable" on them closing the console for them to disappear. Then open console and without clicking anything, do "enable". IF that still doesn't work, then please kindly report it as a bug in my [Discord](https://discord.gg/sqKTwGRwwY)
-7. What are Constellation.esm and OldMars.esm in your plugins tab? <br />
-   These are pre-order bonuses/dlcs. You can safely ignore
 
 ## **Gameplay**<br />
 [![Star Wars Genesis V4](https://res.cloudinary.com/marcomontalbano/image/upload/v1720351573/video_to_markdown/images/youtube--YtV3J-dGmBo-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=YtV3J-dGmBo "Star Wars Genesis V4")
