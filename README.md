@@ -45,10 +45,11 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 1. Download [Star Wars Genesis Wabbajack Compiler](https://drive.google.com/drive/folders/1Sc8CSPkBWlUpbpyesai26M0n9GK3R9ZE?usp=drive_link) and put it on your Desktop
 2. Download and install the latest version of Wabbajack from [here](https://www.wabbajack.org/)
 3. Create a folder called **_Star Wars Genesis_** in the location where you want to install everything (AWAY FROM WABBAJACK INSTALL LOCATION).
-4. Open Wabbajack for the first time and click the gear icon (settings) on the top left, then logon to Nexus Mods.
-5. Close Wabbajack and double click the _Star Wars Genesis.wabbajack_ file you downloaded earlier
+4. MAKE SURE you did not mix the Wabbajack install folder with the Star Wars Genesis folder. These cannot be inside each other.
+5. Open Wabbajack.exe for the first time and click the gear icon (settings) on the top left, then logon to Nexus Mods.
+6. Close Wabbajack and double click the _Star Wars Genesis.wabbajack_ file you downloaded earlier
 7. Set the "_Modlist Installation Location_" to the _**Star Wars Genesis**_ folder you created earlier. The Resource Downlaod folder should auto-fill. Leave that alone.
-8. Once the install is finished, launch **ModOrganizer.exe** in the _**Star Wars Genesis**_ folder
+8. Once the install is finished, launch **ModOrganizer.exe** in the _**Star Wars Genesis**_ folder. This is how you will always start the game from now on. DO NOT just type Mod Organizer in your Windows search bar next time and open another MO2 install lol.
 
 ## **IMPORTANT POST-STEP** <br />
 1. Go to Documents\My Games\Starfield and place the [StarfieldCustom.ini](https://drive.google.com/drive/folders/1Sc8CSPkBWlUpbpyesai26M0n9GK3R9ZE?usp=sharing) file in there
@@ -56,14 +57,15 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 ## **Mod Manager Modlist** <br />
 <br />**HD Overhaul (OPTIONAL)**<br />
 [This](https://www.nexusmods.com/starfield/mods/5124?tab=files) amounts to 100+ GB of 2-4K textures and will lead to performance issues if you have a weak PC. 
-MANUALLY DOWNLOAD these files and then put them in your MO2 Downloads folder. DO NOT download directly through MO2 as it's prone to get issues this way.
+MANUALLY DOWNLOAD these files and then put their archives in the Star Wars Genesis\Downloads folder. DO NOT download directly through MO2 as it's prone to get issues this way. Refresh the Downloads tab on the right side of MO2's UI, scroll all the way down, and right click + install each mod.
 1. Download and install all available parts and make sure you name them the correct part number when installing (Ex. Part 1, Part 2, etc)
 2. Download and install HD Overhaul Textures Patch
 3. Download and install Starfield HD Overhaul ESM
 
 <br />**Sound (IMPORTANT)**<br />
-1. Download [Star Wars Music and Ambience Overhaul](https://drive.google.com/drive/folders/1Sc8CSPkBWlUpbpyesai26M0n9GK3R9ZE?usp=drive_link) and when installing, name it "Star Wars Music and Ambience Overhaul (Non-Combat)" without the quotation marks. Then choose the **_replace_** option when installing.
-   Just to clarify, this is installed through MO2. The archive (unextracted) goes into the MO2 downloads folder. Then you right click and install it from the MO2 Downloads Tab. If you don't hear Star Wars Music while walking around cities/planets, then you installed this wrong.
+1. Download [Star Wars Music and Ambience Overhaul](https://drive.google.com/drive/folders/1Sc8CSPkBWlUpbpyesai26M0n9GK3R9ZE?usp=drive_link)
+   The archive (unextracted) goes into the Star Wars Genesis\Downloads folder. Refresh the Downloads tab on the right side of MO2's UI, scroll all the way down, and right click + install the mod. Name the mod "Star Wars Music and Ambience Overhaul (Non-Combat)" without the quotation marks. Then choose the **_replace_** option when installing. <br />
+   If you don't hear Star Wars Music while walking around cities/planets, then you installed this wrong.
 
 ## **IN-GAME SETUP**<br />
 Now you are ready to launch the game. You may click the RUN button at the top right of Mod Organizer 2 and follow the next few steps. PLEASE DO NOT PANIC if it takes awhile to start for the first time.
