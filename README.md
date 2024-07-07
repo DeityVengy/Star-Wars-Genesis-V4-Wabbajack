@@ -65,7 +65,7 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 ## **IN-GAME SETUP**<br />
 Now you are ready to launch the game. You may click the RUN button at the top right of Mod Organizer 2 and follow the next few steps. PLEASE DO NOT PANIC if it takes awhile to start for the first time.
 
-**_LOADING AN EXISTING SAVE_**
+**LOADING AN EXISTING SAVE**
 1. If a pop-up asking about load order appears, make sure you click CURRENT
 2. If a warning pops up saying x plugin is missing, do NOT search for it in the creations menu and CONTINUE loading without it. These are redundant plugins that have been integrated into Star Wars Genesis
 3. If you see a popup as soon as you load in about SKK Fast Start and a STOP CODE. Just close it and don't worry about it.
@@ -74,10 +74,10 @@ Now you are ready to launch the game. You may click the RUN button at the top ri
    X being the number of health you want to add to your character. If you have 13 hp and are level 50, then you do _player.modav health 137_ to reach 150 intended health.
    
    
-**_STARTING A NEW SAVE_**
+**STARTING A NEW SAVE**
 1. Make you you save and restart the game as soon as you load in to fix the sound issue (and numerous other issue)
 
-**_ALL SAVES_**
+**ALL SAVES**
 1. Your graphics preset most probably reset back to _Low_, which explains why your game is ugly. Go to settings and change it if you wish. My recommended settings are:
    - Motion Blur Off
    - VSync Off
