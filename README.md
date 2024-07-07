@@ -69,15 +69,24 @@ Now you are ready to launch the game. You may click the RUN button at the top ri
 1. If a pop-up asking about load order appears, make sure you click CURRENT
 2. If a warning pops up saying x plugin is missing, do NOT search for it in the creations menu and CONTINUE loading without it. These are redundant plugins that have been integrated into Star Wars Genesis
 3. If you see a popup as soon as you load in about SKK Fast Start and a STOP CODE. Just close it and don't worry about it.
-4. Check how much HP your character has. If you're level 1, you should have 100 HP. If you're level 50, you should have around 150 hp, etc. If you're missing HP (for example someone went from v3 to v4 and only had 13 hp), then you must cheat your health back to normal with this command: player.modav health x
+4. Check how much HP your character has under the _Status_ menu. If you're level 1, you should have 100 HP. If you're level 50, you should have around 150 hp, etc. If you're missing HP (for example someone went from v3 to v4 and only had 13 hp), then you must cheat your health back to normal with this command:
+   player.modav health x <br />
+   X being the number of health you want to add to your character. If you have 13 hp and are level 50, then you do _player.modav health 137_ to reach 150 intended health.
+   
    
 **STARTING A NEW SAVE**
 1. Make you you save and restart the game as soon as you load in to fix the sound issue (and numerous other issue)
 
 **ALL SAVES**
-1. Your graphics preset most probably reset back to _Low_, which explains why your game is ugly. Go to settings and change it if you wish.
-2. Make sure your difficulty settings are all on normal.
-3. For every new jetpack you equip, you must press F1 to activate the jetpack mod. This will unequip your current jetpack so you will have to equip the jetpack again and then press F1 again
+1. Your graphics preset most probably reset back to _Low_, which explains why your game is ugly. Go to settings and change it if you wish. My recommended settings are:
+   - Motion Blur Off
+   - VSync Off
+   - Upscaling Off (unless you really need it)
+   - Everything else on Ultra (if you can)
+   - Show Damage Numbers OFF under Interface
+   - Dialogue and General Subtitles ON under Accessibility
+3. Make sure your difficulty settings are all on normal.
+4. For every new jetpack you equip, you must press F1 to activate the jetpack mod. This will unequip your current jetpack so you will have to equip the jetpack again and then press F1 again
 
 ## **Patch Notes (V3 to V4)**
 
@@ -85,6 +94,7 @@ Now you are ready to launch the game. You may click the RUN button at the top ri
 - **Wabbajack support**
 - Updated StarfieldCustom.ini file with better textures/display config
 - KiLoader/Loose Root Data Implementation
+- Root Builder Implementation
 - Removed 4 redundant plugins and integrated them into Genesis
 
 **Gameplay**
