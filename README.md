@@ -42,7 +42,7 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 
 ## **Wabbajack Install**   <br />
 
-1. Download [Star Wars Genesis Wabbajack Compiler](https://drive.google.com/drive/folders/1Sc8CSPkBWlUpbpyesai26M0n9GK3R9ZE?usp=drive_link)
+1. Download [Star Wars Genesis Wabbajack Compiler](https://drive.google.com/drive/folders/1Sc8CSPkBWlUpbpyesai26M0n9GK3R9ZE?usp=drive_link) and put it on your Desktop
 2. Download and install the latest version of Wabbajack from [here](https://www.wabbajack.org/)
 3. Create a folder called **_Star Wars Genesis_** in the location where you want to install everything (AWAY FROM WABBAJACK INSTALL LOCATION).
 4. Open Wabbajack for the first time and click the gear icon (settings) on the top left, then logon to Nexus Mods.
@@ -56,6 +56,7 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 ## **Mod Manager Modlist** <br />
 <br />**HD Overhaul (OPTIONAL)**<br />
 [This](https://www.nexusmods.com/starfield/mods/5124?tab=files) amounts to 100+ GB of 2-4K textures and will lead to performance issues if you have a weak PC. 
+MANUALLY DOWNLOAD these files and then put them in your MO2 Downloads folder. DO NOT download directly through MO2 as it's prone to get issues this way.
 1. Download and install all available parts and make sure you name them the correct part number when installing (Ex. Part 1, Part 2, etc)
 2. Download and install HD Overhaul Textures Patch
 3. Download and install Starfield HD Overhaul ESM
@@ -77,7 +78,7 @@ Now you are ready to launch the game. You may click the RUN button at the top ri
    
    
 ### **STARTING A NEW SAVE**
-1. Make you you save and restart the game as soon as you load in to fix the sound issue (and numerous other issue)
+1. Make you you save first and then restart the game after you create your character to fix the sound issue (and numerous other issue)
 
 ### **ALL SAVES**
 1. Your graphics preset most probably reset back to _Low_, which explains why your game is ugly. Go to settings and change it if you wish. My recommended settings are:
