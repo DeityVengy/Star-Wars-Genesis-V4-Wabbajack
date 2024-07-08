@@ -82,7 +82,7 @@ Now you are ready to launch the game. You may click the RUN button at the top ri
    
    
 ### **STARTING A NEW SAVE**
-1. Make you you save first and then restart the game after you create your character to fix the sound issue (and numerous other issue)
+1. After creating your character, save your game and then restart and load that same save to fix the sound issue (and numerous other issues).
 
 ### **ALL SAVES**
 1. Your graphics preset most probably reset back to _Low_, which explains why your game is ugly. Go to settings and change it if you wish. My recommended settings are:
