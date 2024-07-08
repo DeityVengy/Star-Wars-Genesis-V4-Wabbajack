@@ -55,7 +55,7 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 1. Go to Documents\My Games\Starfield and place the [StarfieldCustom.ini](https://drive.google.com/file/d/1Sy_oYuMoBkWTvWZTWLl5GE7eNywmoHGA/view?usp=drive_link) file in there
 
 ## **Mod Manager Modlist** <br />
-<br />**HD Overhaul (OPTIONAL)**<br />
+### <br />**HD Overhaul (OPTIONAL)**<br />
 [This](https://www.nexusmods.com/starfield/mods/5124?tab=files) amounts to 100+ GB of 2-4K textures and will lead to performance issues if you have a weak PC. 
 MANUALLY DOWNLOAD these files and then put their archives in the Star Wars Genesis\Downloads folder. DO NOT download directly through MO2 as it's prone to get issues this way. Refresh the Downloads tab on the right side of MO2's UI, scroll all the way down, and right click + install each mod.
 1. Download and install all available parts and make sure you name them the correct part number when installing (Ex. Part 1, Part 2, etc)
@@ -64,7 +64,7 @@ MANUALLY DOWNLOAD these files and then put their archives in the Star Wars Genes
 Now place all these mods in the HD Overhaul category like so and check them: <br />
 ![image](https://github.com/DeityVengy/Star-Wars-Genesis-V4-Wabbajack/assets/170469610/5e93ac36-ee7d-43a2-8b66-10215287cd82)
 
-<br />**Sound (IMPORTANT)**<br />
+### <br />**Sound (IMPORTANT)**<br />
 1. Download [Star Wars Music and Ambience Overhaul](https://drive.google.com/file/d/1YlhFBB024oBvKIl1q7q6oYUZrnuCORoY/view?usp=drive_link)
    The archive (unextracted) goes into the Star Wars Genesis\Downloads folder. Refresh the Downloads tab on the right side of MO2's UI, scroll all the way down, and right click + install the mod. Name the mod "Star Wars Music and Ambience Overhaul (Non-Combat)" without the quotation marks. Then choose the **_replace_** option when installing. <br />
    If you don't hear Star Wars Music while walking around cities/planets, then you installed this wrong.
