@@ -109,9 +109,9 @@ If you're finding the game too easy after leveling up and getting proper armor/w
    Make sure your language for Starfield is set to English on Steam
 ### Xbox Version? <br />
    I will personally not be making an Xbox version simply due to me not having an Xbox to test it on myself and large group of mods in this list (the packs, sfse mods, root mods, etc), all not being possible on Xbox. My mods on Nexus are all open permission and free to be ported over by others though, and I've noticed some already have been. You can get something similar on Xbox but not to this level unfortuantely, atleast for awhile.
-### "Half the modlist isn't working" etc posts
+### "Half the modlist isn't working" etc
    Go look at the bottom of ur plugin order and see if there's any mods from Bethesda Creations down there. Disable them all and try again. Multiple people have had issues where certain Creations mods break the modlist.
-### The game is crashing on startup/isn't launching. <br />
+### The game is crashing on startup/isn't launching <br />
    Delete starfield.exe in your steamapps folder and then verify your game files through Steam. 
 ### Certain NPC's are missing their heads/hands/weapons <br />
    This happens when you mod existing saves. There are 2 possible solutions. First, save your game. Then open the console, click them (make sure it says NPC), and do resetinventory. If that doesn't work, try using "disable" on them closing the console for them to disappear. Then open console and without clicking anything, do "enable". IF that still doesn't work, then please kindly report it as a bug in my [Discord](https://discord.gg/sqKTwGRwwY)
