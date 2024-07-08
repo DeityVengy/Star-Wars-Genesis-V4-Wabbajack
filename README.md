@@ -42,7 +42,7 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 
 ## **Wabbajack Install**   <br />
 
-1. Download [Star Wars Genesis Wabbajack Compiler](https://drive.google.com/drive/folders/1Sc8CSPkBWlUpbpyesai26M0n9GK3R9ZE?usp=drive_link) and put it on your Desktop
+1. Download [Star Wars Genesis Wabbajack Compiler](https://drive.google.com/drive/folders/1Sc8CSPkBWlUpbpyesai26M0n9GK3R9ZE?usp=drive_link) and put it on your Desktop. If for some weird reason it's downloaded as a zip folder, please rename and remove the .zip part.
 2. Download the latest version of Wabbajack from [here](https://www.wabbajack.org/) and put it in a folder called **_Wabbajack_**, then install.
 3. Create a folder called **_Star Wars Genesis_** in the location where you want to install everything (AWAY FROM WABBAJACK INSTALL LOCATION).
 4. MAKE SURE you did not mix the Wabbajack install folder with the Star Wars Genesis folder. These cannot be inside each other.
