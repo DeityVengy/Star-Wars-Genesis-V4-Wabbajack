@@ -98,8 +98,8 @@ Now you are ready to launch the game. You may click the RUN button at the top ri
 5. Going to mention it one more time here. Disable automatic updates for Starfieldon Steam
 
 ## Difficulty (Optional)
-If you're finding the game too hard (especially in the beginning), you can increase your health by 50 or 100 with console commands to make it more doable. The command for that is: **_player.modav health 100_**<br />
-If you're finding the game too easy after leveling up and getting proper armor/weapons, you can revert that above change by running this command: **_player.modav health -100_**
+- If you're finding the game too hard (especially in the beginning), you can increase your health by 50 or 100 with console commands to make it more doable. The command for that is: **_player.modav health 100_**<br />
+- If you're finding the game too easy after leveling up and getting proper armor/weapons, you can revert that above change by running this command: **_player.modav health -100_**
 
 ## **F.A.Q.**
 ### Black Textures on Armor/Weapons/Faces? <br />
