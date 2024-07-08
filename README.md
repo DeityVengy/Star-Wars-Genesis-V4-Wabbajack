@@ -67,7 +67,7 @@ MANUALLY DOWNLOAD these files and then put their archives in the Star Wars Genes
    The archive (unextracted) goes into the Star Wars Genesis\Downloads folder. Refresh the Downloads tab on the right side of MO2's UI, scroll all the way down, and right click + install the mod. Name the mod "Star Wars Music and Ambience Overhaul (Non-Combat)" without the quotation marks. Then choose the **_replace_** option when installing. <br />
    If you don't hear Star Wars Music while walking around cities/planets, then you installed this wrong.
 
-## **IN-GAME SETUP**<br />
+## **IN-GAME SETUP** (DO NOT SKIP THIS IS VERY IMPORTANT)<br />
 Now you are ready to launch the game. You may click the RUN button at the top right of Mod Organizer 2 and follow the next few steps. PLEASE DO NOT PANIC if it takes awhile to start for the first time.
 
 ### **LOADING AN EXISTING SAVE**
