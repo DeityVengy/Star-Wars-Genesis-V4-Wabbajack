@@ -102,25 +102,10 @@ Now you are ready to launch the game. You may click the RUN button at the top ri
 - If you're finding the game too easy after leveling up and getting proper armor/weapons, you can revert that above change by running this command: **_player.modav health -100_**
 
 ## **F.A.Q.**
-### Black Textures on Armor/Weapons/Faces? <br />
-   Download this bat file from [here](https://www.nexusmods.com/starfield/mods/6371?tab=files) and run it. Restart your PC to be safe.<br />
-   If that doesn't work, delete your Data folder in steamapps/common/Starfield and repair the game via Steam<br />
-### Planets/Dialogue not changed <br />
-   Make sure your language for Starfield is set to English on Steam
+Technical Support F.A.Q. can be found [here](https://github.com/DeityVengy/Star-Wars-Genesis-FAQ) <br />
+The rest are general questions:<br />
 ### Xbox Version? <br />
    I will personally not be making an Xbox version simply due to me not having an Xbox to test it on myself and large group of mods in this list (the packs, sfse mods, root mods, etc), all not being possible on Xbox. My mods on Nexus are all open permission and free to be ported over by others though, and I've noticed some already have been. You can get something similar on Xbox but not to this level unfortuantely, atleast for awhile.
-### "Half the modlist isn't working" etc
-   Go look at the bottom of ur plugin order and see if there's any mods from Bethesda Creations down there. Disable them all and try again. Multiple people have had issues where certain Creations mods break the modlist.
-### The game is crashing on startup/isn't launching <br />
-   Delete starfield.exe in your steamapps folder and then verify your game files through Steam. 
-### ModOrganizer.exe in the Star Wars Genesis folder is not opening<br />
-   Download [Mod Organizer 2.5.2dev4](https://onedrive.live.com/?authkey=!ACOOWjZT3MUR068&id=371272C49A37CC4A!151853&cid=371272C49A37CC4A&parId=root&parQt=sharedby&o=OneUp) and drag all it's contents into the Star Wars Genesis folder and replace all files
-### Certain NPC's are missing their heads/hands/weapons <br />
-   This happens when you mod existing saves. There are 2 possible solutions. First, save your game. Then open the console, click them (make sure it says NPC), and do resetinventory. If that doesn't work, try using "disable" on them closing the console for them to disappear. Then open console and without clicking anything, do "enable". IF that still doesn't work, then please kindly report it as a bug in my [Discord](https://discord.gg/sqKTwGRwwY)
-### Failed to save game<br />
-   1. Check Documents\My Games\Starfield\Saves. If any of these folders don't exist, create them in that order.
-   2. Under Virus and Threat Protection Settings (Windows Security), go to "Manage Controlled Folder Access" whitelist the Starfield folder in both Documents/My Games/Starfield and steamapps/common/starfield.
-   3. Disable OneDrive Sync on your Documents folder
 ### How do I get X Weapon/Armor?<br />
    Every single thing in this modlist can be acquired ingame through natural progression. If you want to skip that, then download the Star Wars Genesis Encyclopedia in my Discord and find the base game equivalent of the Weapon/Armor you want. Google the ID of that item and spawn it in with console commands. I DO NOT SUPPORT ANYTHING IN THE WORKBENCHES. You are free to use stuff in the workbenches but they are not balanced around Star Wars Genesis and may even be buggy.
 ### Why no lightsabers?<br />
