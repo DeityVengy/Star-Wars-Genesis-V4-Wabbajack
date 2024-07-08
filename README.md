@@ -60,7 +60,7 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 MANUALLY DOWNLOAD these files and then put their archives in the Star Wars Genesis\Downloads folder. DO NOT download directly through MO2 as it's prone to get issues this way. Refresh the Downloads tab on the right side of MO2's UI, scroll all the way down, and right click + install each mod.
 1. Download and install all available parts and make sure you name them the correct part number when installing (Ex. Part 1, Part 2, etc)
 2. Download and install HD Overhaul Textures Patch
-3. Download and install Starfield HD Overhaul ESM
+3. Download and install Starfield HD Overhaul ESM<br />
 Now place all these mods in the HD Overhaul category like so and check them: <br />
 ![image](https://github.com/DeityVengy/Star-Wars-Genesis-V4-Wabbajack/assets/170469610/5e93ac36-ee7d-43a2-8b66-10215287cd82)
 
