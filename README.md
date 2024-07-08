@@ -113,6 +113,8 @@ Now you are ready to launch the game. You may click the RUN button at the top ri
    Go look at the bottom of ur plugin order and see if there's any mods from Bethesda Creations down there. Disable them all and try again. Multiple people have had issues where certain Creations mods break the modlist.
 ### The game is crashing on startup/isn't launching <br />
    Delete starfield.exe in your steamapps folder and then verify your game files through Steam. 
+### ModOrganizer.exe in the Star Wars Genesis folder is not opening<br />
+   Download [Mod Organizer 2.5.2dev4](https://onedrive.live.com/?authkey=!ACOOWjZT3MUR068&id=371272C49A37CC4A!151853&cid=371272C49A37CC4A&parId=root&parQt=sharedby&o=OneUp) and drag all it's contents into the Star Wars Genesis folder and replace all files
 ### Certain NPC's are missing their heads/hands/weapons <br />
    This happens when you mod existing saves. There are 2 possible solutions. First, save your game. Then open the console, click them (make sure it says NPC), and do resetinventory. If that doesn't work, try using "disable" on them closing the console for them to disappear. Then open console and without clicking anything, do "enable". IF that still doesn't work, then please kindly report it as a bug in my [Discord](https://discord.gg/sqKTwGRwwY)
 ### Failed to save game<br />
