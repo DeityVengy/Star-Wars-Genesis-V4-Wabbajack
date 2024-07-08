@@ -42,7 +42,7 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 
 ## **Wabbajack Install**   <br />
 
-1. Download [Star Wars Genesis Wabbajack Compiler](https://drive.google.com/drive/folders/1Sc8CSPkBWlUpbpyesai26M0n9GK3R9ZE?usp=drive_link) and put it on your Desktop. If for some weird reason it's downloaded as a zip folder, please rename and remove the .zip part.
+1. Download [Star Wars Genesis Wabbajack Compiler](https://drive.google.com/file/d/1R1jPw3mKwdUfeNr4dWaPMiswpZsLL1sD/view?usp=drive_link) and put it on your Desktop.
 2. Download the latest version of Wabbajack from [here](https://www.wabbajack.org/) and put it in a folder called **_Wabbajack_**, then install.
 3. Create a folder called **_Star Wars Genesis_** in the location where you want to install everything (AWAY FROM WABBAJACK INSTALL LOCATION).
 4. MAKE SURE you did not mix the Wabbajack install folder with the Star Wars Genesis folder. These cannot be inside each other.
@@ -52,7 +52,7 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 8. Once the install is finished, launch **ModOrganizer.exe** in the _**Star Wars Genesis**_ folder. This is how you will always start the game from now on. DO NOT just type Mod Organizer in your Windows search bar next time and open another MO2 install lol.
 
 ## **IMPORTANT POST-STEP** <br />
-1. Go to Documents\My Games\Starfield and place the [StarfieldCustom.ini](https://drive.google.com/drive/folders/1Sc8CSPkBWlUpbpyesai26M0n9GK3R9ZE?usp=sharing) file in there
+1. Go to Documents\My Games\Starfield and place the [StarfieldCustom.ini](https://drive.google.com/file/d/1Sy_oYuMoBkWTvWZTWLl5GE7eNywmoHGA/view?usp=drive_link) file in there
 
 ## **Mod Manager Modlist** <br />
 <br />**HD Overhaul (OPTIONAL)**<br />
@@ -63,7 +63,7 @@ MANUALLY DOWNLOAD these files and then put their archives in the Star Wars Genes
 3. Download and install Starfield HD Overhaul ESM
 
 <br />**Sound (IMPORTANT)**<br />
-1. Download [Star Wars Music and Ambience Overhaul](https://drive.google.com/drive/folders/1Sc8CSPkBWlUpbpyesai26M0n9GK3R9ZE?usp=drive_link)
+1. Download [Star Wars Music and Ambience Overhaul](https://drive.google.com/file/d/1YlhFBB024oBvKIl1q7q6oYUZrnuCORoY/view?usp=drive_link)
    The archive (unextracted) goes into the Star Wars Genesis\Downloads folder. Refresh the Downloads tab on the right side of MO2's UI, scroll all the way down, and right click + install the mod. Name the mod "Star Wars Music and Ambience Overhaul (Non-Combat)" without the quotation marks. Then choose the **_replace_** option when installing. <br />
    If you don't hear Star Wars Music while walking around cities/planets, then you installed this wrong.
 
