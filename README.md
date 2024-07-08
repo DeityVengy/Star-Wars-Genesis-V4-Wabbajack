@@ -38,7 +38,7 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 
 
 ## **IMPORTANT PRE-STEPS**   <br />
-1. If you've modded Starfield at launch and/or with Vortex Mod Manager, your setup and save is probably a mess. Please uninstall Starfield completely (delete both Starfield folders in "My Games" and "steamapps\common" folder) and then install it again to delete any remnants of old mods. <br />
+1. If you've modded Starfield at launch and/or with Vortex Mod Manager, your setup and save is probably a mess. Please uninstall Starfield through Steam and then double checking that both **_Documents\My Games\Starfield_** and **_steamapps\common\Starfield_** folders are deleted <br />
 
 ## **Wabbajack Install**   <br />
 
@@ -61,6 +61,8 @@ MANUALLY DOWNLOAD these files and then put their archives in the Star Wars Genes
 1. Download and install all available parts and make sure you name them the correct part number when installing (Ex. Part 1, Part 2, etc)
 2. Download and install HD Overhaul Textures Patch
 3. Download and install Starfield HD Overhaul ESM
+Now place all these mods in the HD Overhaul category like so and check them: <br />
+![image](https://github.com/DeityVengy/Star-Wars-Genesis-V4-Wabbajack/assets/170469610/5e93ac36-ee7d-43a2-8b66-10215287cd82)
 
 <br />**Sound (IMPORTANT)**<br />
 1. Download [Star Wars Music and Ambience Overhaul](https://drive.google.com/file/d/1YlhFBB024oBvKIl1q7q6oYUZrnuCORoY/view?usp=drive_link)
