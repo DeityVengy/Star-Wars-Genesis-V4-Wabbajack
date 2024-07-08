@@ -103,7 +103,7 @@ Now you are ready to launch the game. You may click the RUN button at the top ri
 
 ## **F.A.Q.**
 Technical Support F.A.Q. can be found [here](https://github.com/DeityVengy/Star-Wars-Genesis-FAQ) <br />
-The rest are general questions:<br />
+The rest are general questions:
 ### Xbox Version? <br />
    I will personally not be making an Xbox version simply due to me not having an Xbox to test it on myself and large group of mods in this list (the packs, sfse mods, root mods, etc), all not being possible on Xbox. My mods on Nexus are all open permission and free to be ported over by others though, and I've noticed some already have been. You can get something similar on Xbox but not to this level unfortuantely, atleast for awhile.
 ### How do I get X Weapon/Armor?<br />
