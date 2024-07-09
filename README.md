@@ -28,10 +28,12 @@ This is a guide on installing the Star Wars Genesis modlist that turns Starfield
 1.  Nonpirated **_Steam_** version of Starfield. Alot of these mods have posts about people having issues installing it on the GamePass and MS Store version and some of them straight up aren't compatible. You are completely on your own unfortunately if you choose to go through it knowing this. Nothing against pirating tbh but Wabbajack won't work on pirated game installs since they do an integrity check and the pirated version is always a few patches behind. So please don't waste my time asking for help because it's a lost cause.
 2. Version 1.12.36 of Starfield. PLEASE TURN OFF AUTOMATIC UPDATES for your sake and don't ever update until a newer version of Star Wars Genesis releases. Bethesda is known for breaking mods in their updates and you may still have issues if you choose to downgrade.
 3. DOUBLE CHECK THAT YOU TURNED OFF AUTOMATIC UPDATES FOR STARFIELD
-4. Decent Gaming PC. Make sure unmodded Starfield alone runs fine on your PC before attempting these mods. If you're lagging after installing these mods with a budget build, you can disable the optional HD Overhaul to alleviate it.
-5. Not a requirement but I highly recommend doing this on a fresh save for the most immersive and best experience. Common issues include existing NPC's keeping their existing armor/weapons, existing planets you've landed on not being revamped, and your health being the wrong value.
-6. Windows 10 or 11 (Mod Organizer 2 Limitation)
-7. Atleast 50 GB of available space (200+ GB if planning on using HD Overhaul), preferably on an SSD
+   ![image](https://github.com/DeityVengy/Star-Wars-Genesis-V4-Wabbajack/assets/170469610/4bdeec4d-db5e-4d9e-82a9-e5545dc298f6)
+
+5. Decent Gaming PC. Make sure unmodded Starfield alone runs fine on your PC before attempting these mods. If you're lagging after installing these mods with a budget build, you can disable the optional HD Overhaul to alleviate it.
+6. Not a requirement but I highly recommend doing this on a fresh save for the most immersive and best experience. Common issues include existing NPC's keeping their existing armor/weapons, existing planets you've landed on not being revamped, and your health being the wrong value.
+7. Windows 10 or 11 (Mod Organizer 2 Limitation)
+8. Atleast 50 GB of available space (200+ GB if planning on using HD Overhaul), preferably on an SSD
 
 ## **What is Wabbajack?**<br />
 Wabbajack is an automated modlist installer. It will replicate my modlist and all it's configurations with a portable version of Mod Organizer 2 on your PC. If you have premium on Nexus Mods, then this process is very easy and in just a few clicks, you can be downloading hundreds of mods at once. If you don't have premium, it's going to have you click through each mod to download but it'll guide you exactly on which one to click. After that, it'll still do all the load order/plugin configuration for you.
