@@ -30,6 +30,7 @@ This is a guide on installing the Star Wars Genesis modlist that turns Starfield
 3. DOUBLE CHECK THAT YOU TURNED OFF AUTOMATIC UPDATES FOR STARFIELD
    ![image](https://github.com/DeityVengy/Star-Wars-Genesis-V4-Wabbajack/assets/170469610/4bdeec4d-db5e-4d9e-82a9-e5545dc298f6)
 
+4. No creation store mods installed. Disable/Uninstall them all first. Please DO NOT keep them enabled after reading this and then ask for help in my Discord after you experience an obscure bug that is most probably caused by their conflict. Known issues range from your game completely not starting to crashes and other issues.
 5. Decent Gaming PC. Make sure unmodded Starfield alone runs fine on your PC before attempting these mods. If you're lagging after installing these mods with a budget build, you can disable the optional HD Overhaul to alleviate it.
 6. Not a requirement but I highly recommend doing this on a fresh save for the most immersive and best experience. Common issues include existing NPC's keeping their existing armor/weapons, existing planets you've landed on not being revamped, and your health being the wrong value.
 7. Windows 10 or 11 (Mod Organizer 2 Limitation)
