@@ -56,6 +56,7 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 _Note: I must re-iterate. DO NOT put the wabbajack file from step 1 into the Star Wars Genesis folder and try to install that way. Your install will fail._
 
 ## **IMPORTANT POST-STEP** <br />
+0. If this is a fresh install of Starfield and you've never played it before, launch the game through Steam atleast once. Then close it.
 1. Go to Documents\My Games\Starfield and place the [StarfieldCustom.ini](https://drive.google.com/file/d/1Sy_oYuMoBkWTvWZTWLl5GE7eNywmoHGA/view?usp=drive_link) file in there
 
 ## **Mod Manager Modlist** <br />
