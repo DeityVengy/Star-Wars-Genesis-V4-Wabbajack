@@ -116,8 +116,8 @@ The rest are general questions:
    Every single thing in this modlist can be acquired ingame through natural progression. If you want to skip that, then download the Star Wars Genesis Encyclopedia in my Discord and find the base game equivalent of the Weapon/Armor you want. Google the ID of that item and spawn it in with console commands. I DO NOT SUPPORT ANYTHING IN THE WORKBENCHES. You are free to use stuff in the workbenches but they are not balanced around Star Wars Genesis and may even be buggy.
 ### Why no lightsabers?<br />
    There are a few lightsaber and jedi/sith mods but it just doesn't really work or feel immersive, especially with this game's poor melee combat. I will add lightsabers when they are ready with proper animations, deflection, and dismemberment. To be fair, the odds of an average person in Star Wars encountering Jedi/Sith is pretty low anyway. Just make it part of your headcannon lol.
-### Are there any ship mods in this modlist<br />
-   Not yet. Since those mods require you to install them with a video guide, I find them pointless to include since 90% of people won't know about it. I'm waiting for actual ship replacers.
+### Are there any ship mods in this modlist?<br />
+   Not yet. Since those mods require you to install them with a video guide, I find them pointless to include since 90% of people won't know about it due to the nature of this "plug and play" modlist. I'm waiting for actual ship replacers.
     
 ## **Controller Support**
 1. Disable _**BAKA Hold to Sprint**_ under Gameplay
