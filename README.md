@@ -68,7 +68,8 @@ MANUALLY DOWNLOAD these files and then put their archives in the Star Wars Genes
 2. Download and install HD Overhaul Textures Patch
 3. Download and install Starfield HD Overhaul ESM<br />
 Now place all these mods in the HD Overhaul category like so and check them: <br />
-![image](https://github.com/DeityVengy/Star-Wars-Genesis-V4-Wabbajack/assets/170469610/5e93ac36-ee7d-43a2-8b66-10215287cd82)
+![image](https://github.com/DeityVengy/Star-Wars-Genesis-V4-Wabbajack/assets/170469610/5e93ac36-ee7d-43a2-8b66-10215287cd82) <br />
+The final step is to go to steamapps\common\Starfield and place this [file](https://drive.google.com/file/d/1c09DG3dXQqGIUtGkRNBq3jV5x-ROaSpj/view?usp=drive_link) in there.
 
 ### <br />**Sound (IMPORTANT)**<br />
 1. Download [Star Wars Music and Ambience Overhaul](https://drive.google.com/file/d/1YlhFBB024oBvKIl1q7q6oYUZrnuCORoY/view?usp=drive_link)
