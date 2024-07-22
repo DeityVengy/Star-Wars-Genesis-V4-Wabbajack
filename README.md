@@ -212,7 +212,7 @@ Got any more questions? Stuck on something during the install guide? Experiencin
 ## **Additional Credits**
 [Xaroph](https://next.nexusmods.com/profile/Xaroph/mods) for 90% of the Clothing Pack<br />
 [Zone79](https://next.nexusmods.com/profile/zone79/about-me) for the Nomad Assets in the Armor Pack<br />
-[Bonepunk](https://next.nexusmods.com/profile/Bonepunk/mods?gameId=4187) for providing the raw ESP's to his mods in order to properly balance the armor values for Genesis<br />
+[Bonepunk](https://next.nexusmods.com/profile/Bonepunk/mods?gameId=4187) for providing the raw ESP's to his mods in order to properly balance the armor values for Genesis; as well as giving me access to certain assets.<br />
 [SquareBeard](https://next.nexusmods.com/profile/SquareBeard/mods?gameId=4187) for specifically making mods for Genesis <br />
 [crozzbow](https://next.nexusmods.com/profile/crozzbow/mods?gameId=4187) and [radicalclownfriend](https://next.nexusmods.com/profile/radicalclownfriend/mods?gameId=4187) for being the main reason I started this project in the first place. Their mods are the foundation of everything.
 [ARYANtheAG](https://next.nexusmods.com/profile/ARYANtheAG/about-me?gameId=1151) and [MarcoDiEladio](https://next.nexusmods.com/profile/MarcoDiEladio/about-me?gameId=4187) for their various helmet assets
