@@ -34,7 +34,7 @@ This is a guide on installing the Star Wars Genesis modlist that turns Starfield
 5. Decent Gaming PC. Make sure unmodded Starfield alone runs fine on your PC before attempting these mods. If you're lagging after installing these mods with a budget build, you can disable the optional HD Overhaul to alleviate it.
 6. Not a requirement but I highly recommend doing this on a fresh save for the most immersive and best experience. Common issues include existing NPC's keeping their existing armor/weapons, existing planets you've landed on not being revamped, and your health being the wrong value.
 7. Windows 10 or 11 (Mod Organizer 2 Limitation)
-8. Atleast 50 GB of available space (200+ GB if planning on using HD Overhaul), preferably on an SSD
+8. Atleast 50 GB of available space (200+ GB if planning on using HD Overhaul), preferably on an SSD. I wish you luck if you try playing this on an HDD.
 
 ## **What is Wabbajack?**<br />
 Wabbajack is an automated modlist installer. It will replicate my modlist and all it's configurations with a portable version of Mod Organizer 2 on your PC. If you have premium on Nexus Mods, then this process is very easy and in just a few clicks, you can be downloading hundreds of mods at once. If you don't have premium, it's going to have you click through each mod to download but it'll guide you exactly on which one to click. After that, it'll still do all the load order/plugin configuration for you.
