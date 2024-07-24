@@ -61,18 +61,7 @@ _Note: I must re-iterate. DO NOT put the wabbajack file from step 1 into the Sta
 0. If this is a fresh install of Starfield and you've never played it before, launch the game through Steam atleast once. Then close it.
 1. Go to Documents\My Games\Starfield and place the [StarfieldCustom.ini](https://drive.google.com/file/d/1Sy_oYuMoBkWTvWZTWLl5GE7eNywmoHGA/view?usp=drive_link) file in there
 
-## **Mod Manager Modlist** <br />
-### <br />**HD Overhaul (OPTIONAL)**<br />
-[This](https://www.nexusmods.com/starfield/mods/5124?tab=files) amounts to 100+ GB of 2-4K textures and will lead to performance issues if you have a weak PC. 
-MANUALLY DOWNLOAD these files and then put their archives in the Star Wars Genesis\Downloads folder. DO NOT download directly through MO2 as it's prone to get issues this way. Refresh the Downloads tab on the right side of MO2's UI, scroll all the way down, and right click + install each mod.
-1. Download and install all available parts and make sure you name them the correct part number when installing (Ex. Part 1, Part 2, etc)
-2. Download and install HD Overhaul Textures Patch
-3. Download and install Starfield HD Overhaul ESM<br />
-Now place all these mods in the HD Overhaul category like so and check them: <br />
-![image](https://github.com/DeityVengy/Star-Wars-Genesis-V4-Wabbajack/assets/170469610/5e93ac36-ee7d-43a2-8b66-10215287cd82) <br />
-The final step is to go to steamapps\common\Starfield and place this [file](https://drive.google.com/file/d/1c09DG3dXQqGIUtGkRNBq3jV5x-ROaSpj/view?usp=drive_link) in there.
-
-### <br />**Sound (IMPORTANT)**<br />
+## **MUSIC OVERHAUL**
 1. Download [Star Wars Music and Ambience Overhaul](https://drive.google.com/file/d/1YlhFBB024oBvKIl1q7q6oYUZrnuCORoY/view?usp=drive_link)
    The archive (unextracted) goes into the Star Wars Genesis\Downloads folder. Refresh the Downloads tab on the right side of MO2's UI, scroll all the way down, and right click + install the mod. Name the mod "Star Wars Music and Ambience Overhaul (Non-Combat)" without the quotation marks. Then choose the **_replace_** option when installing. Now you can check the box on the left side to enable the mod <br />
    #### _Note: The Red Triangles you see in the downloads tab is nothing to worry about._<br />
@@ -81,10 +70,10 @@ The final step is to go to steamapps\common\Starfield and place this [file](http
 ## **IN-GAME SETUP** (DO NOT SKIP THIS IS VERY IMPORTANT)<br />
 Now you are ready to launch the game. You may click the RUN button at the top right of Mod Organizer 2 and follow the next few steps. PLEASE DO NOT PANIC if it takes awhile to start for the first time.
 
-### **STARTING A NEW SAVE**
+### **IF STARTING A NEW SAVE**
 1. After creating your character, save your game and then restart and load that same save to fix the sound issue (and numerous other issues).
    
-### **LOADING AN EXISTING SAVE**
+### **IF LOADING AN EXISTING SAVE**
 1. If a pop-up asking about load order appears, make sure you click CURRENT
 2. If a warning pops up saying x plugin is missing, do NOT search for it in the creations menu and CONTINUE loading without it. These are redundant plugins that have been integrated into Star Wars Genesis
 3. If you see a popup as soon as you load in about SKK Fast Start and a STOP CODE. Just close it and don't worry about it.
@@ -92,7 +81,7 @@ Now you are ready to launch the game. You may click the RUN button at the top ri
    _player.modav health x_ <br />
    X being the number of health you want to add to your character. If you have 13 hp and are level 50, then you do _player.modav health 137_ to reach 150 intended health.
 
-### **ALL SAVES**
+### **FOR ALL SAVES**
 1. Your graphics preset most probably reset back to _Low_, which explains why your game is ugly. Go to settings and change it if you wish. My recommended settings are:
    - Motion Blur Off
    - VSync Off
@@ -104,6 +93,16 @@ Now you are ready to launch the game. You may click the RUN button at the top ri
 3. Make sure your difficulty settings are all on normal.
 4. For every new jetpack you equip, you must press F1 to activate the jetpack mod. This will unequip your current jetpack so you will have to equip the jetpack again and then press F1 again
 5. Going to mention it one more time here. Disable automatic updates for Starfield on Steam
+
+## **HD Overhaul (OPTIONAL)**<br />
+[This](https://www.nexusmods.com/starfield/mods/5124?tab=files) amounts to 100+ GB of 2-4K textures and will lead to performance issues if you have a weak PC. 
+MANUALLY DOWNLOAD these files and then put their archives in the Star Wars Genesis\Downloads folder. DO NOT download directly through MO2 as it's prone to get issues this way. Refresh the Downloads tab on the right side of MO2's UI, scroll all the way down, and right click + install each mod.
+1. Download and install all available parts and make sure you name them the correct part number when installing (Ex. Part 1, Part 2, etc)
+2. Download and install HD Overhaul Textures Patch
+3. Download and install Starfield HD Overhaul ESM<br />
+Now place all these mods in the HD Overhaul category like so and check them: <br />
+![image](https://github.com/DeityVengy/Star-Wars-Genesis-V4-Wabbajack/assets/170469610/5e93ac36-ee7d-43a2-8b66-10215287cd82) <br />
+The final step is to go to steamapps\common\Starfield and place this [file](https://drive.google.com/file/d/1c09DG3dXQqGIUtGkRNBq3jV5x-ROaSpj/view?usp=drive_link) in there.
 
 ## Difficulty (Optional)
 - If you're finding the game too hard (especially in the beginning), you can increase your health by 50 or 100 with console commands to make it more doable. The command for that is: **_player.modav health 100_**<br />
