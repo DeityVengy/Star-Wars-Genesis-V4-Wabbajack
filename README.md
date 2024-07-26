@@ -50,12 +50,14 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 3. Create a folder called **_Star Wars Genesis_** in the location where you want to install everything (AWAY FROM WABBAJACK INSTALL LOCATION).
 4. MAKE SURE you did not mix the Wabbajack install folder with the Star Wars Genesis folder. These cannot be inside each other. The Star Wars Genesis.wabbajack file cannot be inside the Star Wars Genesis folder too. Everything should be on the same drive, including the wabbajack file.
 5. Open Wabbajack.exe for the first time and click the gear icon (settings) on the top left, then logon to Nexus Mods.
-6. Close Wabbajack and double click the _Star Wars Genesis.wabbajack_ file you downloaded earlier
+6. Close Wabbajack and double click the _Star Wars Genesis.wabbajack_ file you downloaded earlier. I must re-iterate. DO NOT put the wabbajack file from step 1 into the Star Wars Genesis folder and try to install that way. Your install will fail
 7. Set the "_Modlist Installation Location_" to the _**Star Wars Genesis**_ folder you created earlier. The Resource Downlaod folder should auto-fill. Leave that alone.
 8. Start the install. if you don't have Nexus Premium, then Wabbajack makes you click through each mod. if you do have Nexus Premium, then Wabbajack downloads each mod automatically for you.<br />
 9. If at any point your install gets "stuck", just close wabbajack and start the install again, pointing to the same location you chose earlier and unchecking the "overwrite" option. This will resume where you left off. A "stuck" install is different from an error. If you get an error, don't bother trying to reinstall as the problem is due to something else
-9. Once the install is finished, launch **ModOrganizer.exe** in the _**Star Wars Genesis**_ folder (NOT THE DOWNLOADS FOLDER). This is how you will always start the game from now on. DO NOT just type Mod Organizer in your Windows search bar next time and open another MO2 install lol.<br />
-_Note: I must re-iterate. DO NOT put the wabbajack file from step 1 into the Star Wars Genesis folder and try to install that way. Your install will fail._
+9. Once the install is finished, launch **ModOrganizer.exe** in the _**Star Wars Genesis**_ folder (NOT THE DOWNLOADS FOLDER). You will get a popup asking about nxm links. Click Yes.
+10. Keep Mod Organizer 2 open. <br />
+
+#### Note: This is how you will always start the game from now on. DO NOT just type Mod Organizer in your Windows search bar next time and then accidently open another MO2 install for a different modded game.<br />
 
 ## **IMPORTANT POST-STEP** <br />
 0. If this is a fresh install of Starfield and you've never played it before, launch the game through Steam atleast once. Then close it.
@@ -63,7 +65,7 @@ _Note: I must re-iterate. DO NOT put the wabbajack file from step 1 into the Sta
 
 ## **MUSIC OVERHAUL**
 1. Download [Star Wars Music and Ambience Overhaul](https://drive.google.com/file/d/1YlhFBB024oBvKIl1q7q6oYUZrnuCORoY/view?usp=drive_link)
-   The archive (unextracted) goes into the Star Wars Genesis\Downloads folder. Refresh the Downloads tab on the right side of MO2's UI, scroll all the way down, and right click + install the mod. Name the mod "Star Wars Music and Ambience Overhaul (Non-Combat)" without the quotation marks. Then choose the **_replace_** option when installing. Now you can check the box on the left side to enable the mod <br />
+   The archive (unextracted) goes into the Star Wars Genesis\Downloads folder. Refresh the Downloads tab on the right side of Mod Organizer 2's UI, scroll all the way down, and right click + install the mod. Name the mod "Star Wars Music and Ambience Overhaul (Non-Combat)" without the quotation marks. Then choose the **_replace_** option when installing. Now you can check the box on the left side to enable the mod <br />
    #### _Note: The Red Triangles you see in the downloads tab is nothing to worry about._<br />
    If you don't hear Star Wars Music while walking around cities/planets, then you installed this wrong.
    
