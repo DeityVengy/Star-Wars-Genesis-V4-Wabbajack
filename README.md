@@ -97,14 +97,14 @@ Now you are ready to launch the game. You may click the RUN button at the top ri
 5. Going to mention it one more time here. Disable automatic updates for Starfield on Steam
 
 ## **HD Overhaul (OPTIONAL)**<br />
-[This](https://www.nexusmods.com/starfield/mods/5124?tab=files) amounts to 100+ GB of 2-4K textures and will lead to performance issues if you have a weak PC. 
-MANUALLY DOWNLOAD these files and then put their archives in the Star Wars Genesis\Downloads folder. DO NOT download directly through MO2 as it's prone to get issues this way. Refresh the Downloads tab on the right side of MO2's UI, scroll all the way down, and right click + install each mod.
-1. Download and install all available parts and make sure you name them the correct part number when installing (Ex. Part 1, Part 2, etc)
-2. Download and install HD Overhaul Textures Patch
-3. Download and install Starfield HD Overhaul ESM<br />
-Now place all these mods in the HD Overhaul category like so and check them: <br />
-![image](https://github.com/DeityVengy/Star-Wars-Genesis-V4-Wabbajack/assets/170469610/5e93ac36-ee7d-43a2-8b66-10215287cd82) <br />
-The final step is to go to steamapps\common\Starfield and place this [file](https://drive.google.com/file/d/1c09DG3dXQqGIUtGkRNBq3jV5x-ROaSpj/view?usp=drive_link) in there.
+[This](https://www.nexusmods.com/starfield/mods/5124?tab=files) amounts to 100+ GB of 2-4K textures and will lead to performance issues if you have a weak PC. <br />
+MANUALLY DOWNLOAD these files and put the BA2 inside each archive in the steamapps\common\Starfield\Data folder. <br />
+- Parts 1 - 15
+- Texture Patch <br />
+#### Note: DO NOT USE MOD ORGANIZER 2 TO INSTALL THESE OR ELSE YOU WILL HAVE CRASHES AND COUNTLESS BUGS <br />
+Your Data folder should have ALL these files in there like this this:
+![image](https://github.com/user-attachments/assets/a967a16b-3e74-4ac7-a435-6cdbfe07892e) <br />
+The final step is to download the Modified Starfield.ini and replace the existing one in your steamapps\common\Starfield directory. You are done.
 
 ## Difficulty (Optional)
 - If you're finding the game too hard (especially in the beginning), you can increase your health by 50 or 100 with console commands to make it more doable. The command for that is: **_player.modav health 100_**<br />
