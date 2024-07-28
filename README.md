@@ -96,6 +96,12 @@ Now you are ready to launch the game. You may click the RUN button at the top ri
 4. For every new jetpack you equip, you must press F1 to activate the jetpack mod. This will unequip your current jetpack so you will have to equip the jetpack again and then press F1 again
 5. Going to mention it one more time here. Disable automatic updates for Starfield on Steam
 
+## **LAUNCHING THE GAME**
+You have officially completed the install. Make sure _SFSE_ is selected at the top right and click _Run_. <br />
+This is how you will always start your game from now on.<br />
+![image](https://github.com/user-attachments/assets/51d62213-409e-49f4-a032-6119e6624c36)
+
+
 ## **HD Overhaul (OPTIONAL)**<br />
 [This](https://www.nexusmods.com/starfield/mods/5124?tab=files) amounts to 100+ GB of 2-4K textures and will lead to performance issues if you have a weak PC. <br />
 MANUALLY DOWNLOAD these files and put the BA2 inside each archive in the steamapps\common\Starfield\Data folder. <br />
