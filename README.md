@@ -29,13 +29,14 @@ This is a guide on installing the Star Wars Genesis modlist that turns Starfield
 2. Version 1.12.36 of Starfield. PLEASE TURN OFF AUTOMATIC UPDATES for your sake and do NOT ever update until a newer version of Star Wars Genesis releases
 
 3. No creation store mods installed. Disable/Uninstall them all first. Please DO NOT keep them enabled after reading this and then ask for help in my Discord after you experience an obscure bug that is most probably caused by their conflict. Known issues range from your game completely not starting to crashes and other issues.
-4. ![image](https://github.com/user-attachments/assets/0f9f433d-2335-43c0-baec-525535b39278)
+4. Starfield Recommended Specs: <br />
+   ![image](https://github.com/user-attachments/assets/0f9f433d-2335-43c0-baec-525535b39278)
 
-5. SSD. This will NOT work well on an HDD. Atleast 50 GB of available space (200+ GB if planning on using HD Overhaul)
-6. Fresh Save highly recommended
-7. Windows 10 1809 or 11 (Mod Organizer 2 Limitation)
-8. [Microsoft Visual C++ Redistributable 14.40.33810.0](https://aka.ms/vs/17/release/vc_redist.x64.exe)
-9. DOUBLE CHECK THAT YOU TURNED OFF AUTOMATIC UPDATES FOR STARFIELD
+6. SSD. This will NOT work well on an HDD. Atleast 50 GB of available space (200+ GB if planning on using HD Overhaul)
+7. Fresh Save highly recommended
+8. Windows 10 1809 or 11 (Mod Organizer 2 Limitation)
+9. [Microsoft Visual C++ Redistributable 14.40.33810.0](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+10. DOUBLE CHECK THAT YOU TURNED OFF AUTOMATIC UPDATES FOR STARFIELD
    ![image](https://github.com/DeityVengy/Star-Wars-Genesis-V4-Wabbajack/assets/170469610/4bdeec4d-db5e-4d9e-82a9-e5545dc298f6)
 
 ## **What is Wabbajack?**<br />
