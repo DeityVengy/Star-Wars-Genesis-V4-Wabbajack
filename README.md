@@ -25,7 +25,7 @@ This is a guide on installing the Star Wars Genesis modlist that turns Starfield
 - Automated Install
 
 ## **Requirements:**
-1. **_Steam_** version of Starfield (NO GAMEPASS/MICROSOFT SUPPORT). Do NOT ask for my help with a pirated version.
+1. **STEAM** version of Starfield (NO GAMEPASS/MICROSOFT SUPPORT). Do NOT ask for my help with a pirated version.
 2. Version 1.12.36 of Starfield. PLEASE TURN OFF AUTOMATIC UPDATES for your sake and do NOT ever update until a newer version of Star Wars Genesis releases
 
 3. No creation store mods installed. Disable/Uninstall them all first. Please DO NOT keep them enabled after reading this and then ask for help in my Discord after you experience an obscure bug that is most probably caused by their conflict. Known issues range from your game completely not starting to crashes and other issues.
