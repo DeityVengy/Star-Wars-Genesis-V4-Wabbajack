@@ -23,6 +23,7 @@ This is a guide on installing the Star Wars Genesis modlist that turns Starfield
 - Dynamic Weather <br />
 - Active War Between Empire & Rebels
 - Automated Install
+If you're interested in a more in-depth overview of every mod involved in the list, then take a look at [this](https://github.com/DeityVengy/Star-Wars-Genesis-Full-Modlist).
 
 ## **Requirements:**
 1. **STEAM** version of Starfield _(No GamePass/Microsoft Support)_. DO NOT ASK FOR MY HELP WITH A PIRATED VERSION
