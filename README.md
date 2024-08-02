@@ -6,7 +6,7 @@ This is a guide on installing the Star Wars Genesis modlist that turns Starfield
 
 ## **Overview:**<br />
 - Complete Sound and Music Overhaul<br />
-- Full Conversion of ALL Factions<br />
+- Full Conversion of ALL Factions & Sub-factions <br />
 - Full Conversion of ALL Weapons<br />
 - Full Conversion of ALL Spacesuits<br />
 - Notable Locations, Planets, Items, and Dialogue Rewritten<br />
