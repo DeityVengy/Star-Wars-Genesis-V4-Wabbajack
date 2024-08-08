@@ -230,7 +230,8 @@ Got any more questions? Stuck on something during the install guide? Experiencin
 [ARYANtheAG](https://next.nexusmods.com/profile/ARYANtheAG/about-me?gameId=1151) and [MarcoDiEladio](https://next.nexusmods.com/profile/MarcoDiEladio/about-me?gameId=4187) for their various helmet assets <br />
 [skullyNbones](https://next.nexusmods.com/profile/skullyNbones/about-me?gameId=4187) for various character presets <br />
 JaMeS for creating the Star Wars Genesis Logo <br />
-Darth Revan & Pips for creating the Magazine Art <br />
+[Darth Revan](https://next.nexusmods.com/profile/Th3DarthRevan/mods?gameId=4187) & Pips for creating the Magazine Art <br />
+[TexanWarlord](https://next.nexusmods.com/profile/TexanWarlord/mods) for Sounds just for Genesis <br />
 
 ## **Copyright Information**
 Star Wars Genesis is a fan-made modification for the game Starfield. This mod transforms the base game into a Star Wars RPG experience. Created under the principles of fair use, Star Wars Genesis is a non-commercial, transformative work of fan fiction, and it is not intended to infringe on the original copyrights held by Lucasfilm Ltd., Disney, Bethesda Softworks, or any other affiliated entities. This modification is distributed freely and will remain free, with no monetary gain sought or received from its creation, distribution, or use. By downloading and using Star Wars Genesis, you acknowledge that this mod is a fan project created out of a love for the Star Wars universe and is meant solely for entertainment purposes. We encourage support for the original creators and official Star Wars content.
