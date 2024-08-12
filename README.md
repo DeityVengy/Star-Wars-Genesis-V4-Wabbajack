@@ -73,6 +73,8 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
    The archive (unextracted) goes into the Star Wars Genesis\Downloads folder. Refresh the Downloads tab on the right side of Mod Organizer 2's UI, scroll all the way down, and right click + install the mod. Name the mod "Star Wars Music and Ambience Overhaul (Non-Combat)" without the quotation marks. Then choose the **_replace_** option when installing. Now you can check the box on the left side to enable the mod <br />
    #### _Note: The Red Triangles you see in the downloads tab is nothing to worry about._<br />
    If you don't hear Star Wars Music while walking around cities/planets, then you installed this wrong.
+ ### _Note: I have express permission from the composer of these music tracks to use their music in Star Wars Genesis. Please contact me if you question the validity of the claim so that I can provide evidence as well as a form of Contact for further verification._<br />
+
    
 ## **IN-GAME SETUP** (DO NOT SKIP THIS IS VERY IMPORTANT)<br />
 Now you are ready to launch the game. You may click the RUN button at the top right of Mod Organizer 2 and follow the next few steps. PLEASE DO NOT PANIC if it takes awhile to start for the first time.
