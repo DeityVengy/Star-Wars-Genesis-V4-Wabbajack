@@ -28,7 +28,7 @@
 
 ## **Requirements:**
 1. **STEAM** version of Starfield _(No GamePass/Microsoft Support)_. DO NOT ASK FOR MY HELP WITH A PIRATED VERSION
-2. Version 1.12.30 of Starfield. PLEASE TURN OFF AUTOMATIC UPDATES for your sake and do NOT ever update until a newer version of Star Wars Genesis releases
+2. Version 1.12.36 of Starfield. PLEASE TURN OFF AUTOMATIC UPDATES for your sake and do NOT ever update until a newer version of Star Wars Genesis releases
 
 3. No creation store mods installed. Disable/Uninstall them all first. Please DO NOT keep them enabled after reading this and then ask for help in my Discord after you experience an obscure bug that is most probably caused by their conflict. Known issues range from your game completely not starting to crashes and other issues.
 4. Starfield Recommended Specs: <br />
