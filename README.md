@@ -69,9 +69,7 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 1. Go to Documents\My Games\Starfield and place the [StarfieldCustom.ini](https://drive.google.com/file/d/1Sy_oYuMoBkWTvWZTWLl5GE7eNywmoHGA/view?usp=drive_link) file in there
 
 ## **MUSIC OVERHAUL**
-1. Download [Star Wars Music and Ambience Overhaul](https://drive.google.com/file/d/1YlhFBB024oBvKIl1q7q6oYUZrnuCORoY/view?usp=drive_link)
-   The archive (unextracted) goes into the Star Wars Genesis\Downloads folder. Refresh the Downloads tab on the right side of Mod Organizer 2's UI, scroll all the way down, and right click + install the mod. Name the mod "Star Wars Music and Ambience Overhaul (Non-Combat)" without the quotation marks. Then choose the **_replace_** option when installing. Now you can check the box on the left side to enable the mod <br />
-   #### _Note: The Red Triangles you see in the downloads tab is nothing to worry about._<br />
+1. Download and install my [Star Wars Music and Ambience Overhaul](https://www.nexusmods.com/starfield/mods/10945?tab=files)
    If you don't hear Star Wars Music while walking around cities/planets, then you installed this wrong.
  ### Note: I have express permission from the composer of these music tracks to use their music in Star Wars Genesis. Please contact me if you question the validity of this claim so that I may provide evidence supporting it, as well as a form of Contact for further verification. As this modlist includes additional  Star Wars music mods attained from NexusMods, I am not responsible for the legal issues of that music. Please contact NexusMods for that. <br />
 
