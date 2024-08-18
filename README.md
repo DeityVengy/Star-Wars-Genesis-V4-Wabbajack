@@ -1,5 +1,65 @@
 # Star Wars Genesis V4: Total Conversion Modlist for Starfield
+
+
+
+# THIS IS OUTDATED. V5 is OUT!
+# https://github.com/DeityVengy/Star-Wars-Genesis-V5-Wabbajack
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![Starfield Modlist Photoshop Cropped](https://github.com/DeityVengy/Star_Wars_Genesis_V2_for_Starfield_1.11.36/assets/170469610/7473f5e6-41f7-44e2-add5-3561df29b1be)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### This is a guide on installing the Star Wars Genesis modlist that turns Starfield into Star Wars, as seen on YouTube and featured on IGN.<br />
 
